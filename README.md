@@ -86,6 +86,7 @@ cd ..
 # Remove empty folder if desired
 rmdir varying_exposure
 ```
+Repeat the above with the `baseline_varying_exposure` directory.
 
 After this step, the datasets should be directly accessible from:
 
