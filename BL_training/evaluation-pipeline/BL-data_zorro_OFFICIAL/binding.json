@@ -1,0 +1,803 @@
+{"sentence_good": "Anne thinks about herself calling this fuel.", "sentence_bad": "Anne thinks about herself called this fuel.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself getting this fuel.", "sentence_bad": "Anne thinks about herself gets this fuel.", "phenomena": "binding"}
+{"sentence_good": "Roger thinks about himself trying this stand.", "sentence_bad": "Roger thinks about himself tried this stand.", "phenomena": "binding"}
+{"sentence_good": "Roger thinks about himself making this stand.", "sentence_bad": "Roger thinks about himself makes this stand.", "phenomena": "binding"}
+{"sentence_good": "Bill must not think about himself putting away some color.", "sentence_bad": "Bill must not think about himself put away some color.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself putting away some color.", "sentence_bad": "Sarah must not think about herself put away some color.", "phenomena": "binding"}
+{"sentence_good": "Bill must not think about himself planning some color.", "sentence_bad": "Bill must not think about himself plans some color.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself planning some color.", "sentence_bad": "Sarah must not think about herself plans some color.", "phenomena": "binding"}
+{"sentence_good": "Bill did not think about himself moving some back.", "sentence_bad": "Bill did not think about himself moved some back.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself moving some back.", "sentence_bad": "Sarah did not think about herself moved some back.", "phenomena": "binding"}
+{"sentence_good": "Bill did not think about himself planning some back.", "sentence_bad": "Bill did not think about himself plans some back.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself planning some back.", "sentence_bad": "Sarah did not think about herself plans some back.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself putting away a guess.", "sentence_bad": "Sarah must think about herself put away a guess.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself seeing a guess.", "sentence_bad": "Sarah must think about herself sees a guess.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself calling that ball.", "sentence_bad": "Sarah thinks about herself called that ball.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself running to that ball.", "sentence_bad": "Sarah thinks about herself runs to that ball.", "phenomena": "binding"}
+{"sentence_good": "Mark did not think about himself covering this whale.", "sentence_bad": "Mark did not think about himself covered this whale.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself covering this whale.", "sentence_bad": "Sarah did not think about herself covered this whale.", "phenomena": "binding"}
+{"sentence_good": "Mark did not think about himself calling this whale.", "sentence_bad": "Mark did not think about himself calls this whale.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself calling this whale.", "sentence_bad": "Sarah did not think about herself calls this whale.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself reading this media.", "sentence_bad": "Sarah thought about herself read this media.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself depending this media.", "sentence_bad": "Sarah thought about herself depends this media.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself setting up that label.", "sentence_bad": "Sarah did not think about herself set up that label.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself standing that label.", "sentence_bad": "Sarah did not think about herself stands that label.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself trying that bird.", "sentence_bad": "Anne could think about herself tried that bird.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself taking that bird.", "sentence_bad": "Anne could think about herself takes that bird.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself serving some valley.", "sentence_bad": "Sarah thought about herself served some valley.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself depending some valley.", "sentence_bad": "Sarah thought about herself depends some valley.", "phenomena": "binding"}
+{"sentence_good": "Roger could think about himself trying some procedure.", "sentence_bad": "Roger could think about himself tried some procedure.", "phenomena": "binding"}
+{"sentence_good": "Roger could think about himself testing some procedure.", "sentence_bad": "Roger could think about himself tests some procedure.", "phenomena": "binding"}
+{"sentence_good": "Alexander must not think about himself trying that bear.", "sentence_bad": "Alexander must not think about himself tried that bear.", "phenomena": "binding"}
+{"sentence_good": "Alexander must not think about himself studying that bear.", "sentence_bad": "Alexander must not think about himself studies that bear.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself putting away that back.", "sentence_bad": "Sarah could think about herself put away that back.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself making that back.", "sentence_bad": "Sarah could think about herself makes that back.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself moving a home.", "sentence_bad": "Sarah thought about herself moved a home.", "phenomena": "binding"}
+{"sentence_good": "Roger must think about himself putting away this bird.", "sentence_bad": "Roger must think about himself put away this bird.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself putting away this bird.", "sentence_bad": "Sarah must think about herself put away this bird.", "phenomena": "binding"}
+{"sentence_good": "Roger must think about himself depending this bird.", "sentence_bad": "Roger must think about himself depends this bird.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself depending this bird.", "sentence_bad": "Sarah must think about herself depends this bird.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself calling the game.", "sentence_bad": "Sarah must not think about herself called the game.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself looking at the game.", "sentence_bad": "Sarah must not think about herself looks at the game.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself trying the growth.", "sentence_bad": "Sarah thought about herself tried the growth.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself going to the growth.", "sentence_bad": "Sarah thought about herself goes to the growth.", "phenomena": "binding"}
+{"sentence_good": "Alexander thinks about himself living in some procedure.", "sentence_bad": "Alexander thinks about himself lived in some procedure.", "phenomena": "binding"}
+{"sentence_good": "Alexander thinks about himself testing some procedure.", "sentence_bad": "Alexander thinks about himself tests some procedure.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself setting up some color.", "sentence_bad": "Sarah must not think about herself set up some color.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself looking at some color.", "sentence_bad": "Sarah must not think about herself looks at some color.", "phenomena": "binding"}
+{"sentence_good": "Joseph could think about himself covering that suit.", "sentence_bad": "Joseph could think about himself covered that suit.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself covering that suit.", "sentence_bad": "Anne could think about herself covered that suit.", "phenomena": "binding"}
+{"sentence_good": "Joseph could think about himself calling that suit.", "sentence_bad": "Joseph could think about himself calls that suit.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself calling that suit.", "sentence_bad": "Anne could think about herself calls that suit.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself running to the mirror.", "sentence_bad": "Anne could think about herself ran to the mirror.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself calling the mirror.", "sentence_bad": "Anne could think about herself calls the mirror.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself calling some boom.", "sentence_bad": "Sarah thinks about herself called some boom.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself making some boom.", "sentence_bad": "Sarah thinks about herself makes some boom.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself running to a sky.", "sentence_bad": "Sarah did not think about herself ran to a sky.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself calling a sky.", "sentence_bad": "Sarah did not think about herself calls a sky.", "phenomena": "binding"}
+{"sentence_good": "Alexander thought about himself moving a dance.", "sentence_bad": "Alexander thought about himself moved a dance.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself moving a dance.", "sentence_bad": "Anne thought about herself moved a dance.", "phenomena": "binding"}
+{"sentence_good": "Alexander thought about himself starting a dance.", "sentence_bad": "Alexander thought about himself starts a dance.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself starting a dance.", "sentence_bad": "Anne thought about herself starts a dance.", "phenomena": "binding"}
+{"sentence_good": "Bill thought about himself reading that counter.", "sentence_bad": "Bill thought about himself read that counter.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself reading that counter.", "sentence_bad": "Anne thought about herself read that counter.", "phenomena": "binding"}
+{"sentence_good": "Bill thought about himself depending that counter.", "sentence_bad": "Bill thought about himself depends that counter.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself depending that counter.", "sentence_bad": "Anne thought about herself depends that counter.", "phenomena": "binding"}
+{"sentence_good": "Alexander thinks about himself putting away this drop.", "sentence_bad": "Alexander thinks about himself put away this drop.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself putting away this drop.", "sentence_bad": "Sarah thinks about herself put away this drop.", "phenomena": "binding"}
+{"sentence_good": "Alexander thinks about himself seeing this drop.", "sentence_bad": "Alexander thinks about himself sees this drop.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself seeing this drop.", "sentence_bad": "Sarah thinks about herself sees this drop.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself setting up some picture.", "sentence_bad": "Anne could think about herself set up some picture.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself planning some picture.", "sentence_bad": "Anne could think about herself plans some picture.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself living in the general.", "sentence_bad": "Anne did not think about herself lived in the general.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself studying the general.", "sentence_bad": "Anne did not think about herself studies the general.", "phenomena": "binding"}
+{"sentence_good": "Joseph must think about himself running to a color.", "sentence_bad": "Joseph must think about himself ran to a color.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself running to a color.", "sentence_bad": "Anne must think about herself ran to a color.", "phenomena": "binding"}
+{"sentence_good": "Joseph must think about himself planning a color.", "sentence_bad": "Joseph must think about himself plans a color.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself planning a color.", "sentence_bad": "Anne must think about herself plans a color.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself trying some night.", "sentence_bad": "Sarah must think about herself tried some night.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself changing some night.", "sentence_bad": "Sarah must think about herself changes some night.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself setting up some bird.", "sentence_bad": "Sarah did not think about herself set up some bird.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself showing off some bird.", "sentence_bad": "Sarah did not think about herself shows off some bird.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself reading a cast.", "sentence_bad": "Sarah thought about herself read a cast.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself seeing a cast.", "sentence_bad": "Sarah thought about herself sees a cast.", "phenomena": "binding"}
+{"sentence_good": "Joseph must think about himself covering the guess.", "sentence_bad": "Joseph must think about himself covered the guess.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself covering the guess.", "sentence_bad": "Anne must think about herself covered the guess.", "phenomena": "binding"}
+{"sentence_good": "Joseph must think about himself making the guess.", "sentence_bad": "Joseph must think about himself makes the guess.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself making the guess.", "sentence_bad": "Anne must think about herself makes the guess.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself setting up a fuel.", "sentence_bad": "Anne must not think about herself set up a fuel.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself seeing a fuel.", "sentence_bad": "Anne must not think about herself sees a fuel.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself running to an apple.", "sentence_bad": "Sarah could think about herself ran to an apple.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself studying an apple.", "sentence_bad": "Sarah could think about herself studies an apple.", "phenomena": "binding"}
+{"sentence_good": "Thomas must think about himself covering some drop.", "sentence_bad": "Thomas must think about himself covered some drop.", "phenomena": "binding"}
+{"sentence_good": "Thomas must think about himself going to some drop.", "sentence_bad": "Thomas must think about himself goes to some drop.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself moving the color.", "sentence_bad": "Sarah could think about herself moved the color.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself showing off the color.", "sentence_bad": "Sarah could think about herself shows off the color.", "phenomena": "binding"}
+{"sentence_good": "Sam could think about himself living in this color.", "sentence_bad": "Sam could think about himself lived in this color.", "phenomena": "binding"}
+{"sentence_good": "Sam could think about himself recording this color.", "sentence_bad": "Sam could think about himself records this color.", "phenomena": "binding"}
+{"sentence_good": "Sam must think about himself trying some color.", "sentence_bad": "Sam must think about himself tried some color.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself trying some color.", "sentence_bad": "Anne must think about herself tried some color.", "phenomena": "binding"}
+{"sentence_good": "Sam must think about himself turning some color.", "sentence_bad": "Sam must think about himself turns some color.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself turning some color.", "sentence_bad": "Anne must think about herself turns some color.", "phenomena": "binding"}
+{"sentence_good": "Sam thought about himself living in a bird.", "sentence_bad": "Sam thought about himself lived in a bird.", "phenomena": "binding"}
+{"sentence_good": "Sam thought about himself planning a bird.", "sentence_bad": "Sam thought about himself plans a bird.", "phenomena": "binding"}
+{"sentence_good": "Thomas must think about himself running to a couple.", "sentence_bad": "Thomas must think about himself ran to a couple.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself running to a couple.", "sentence_bad": "Anne must think about herself ran to a couple.", "phenomena": "binding"}
+{"sentence_good": "Thomas must think about himself getting a couple.", "sentence_bad": "Thomas must think about himself gets a couple.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself getting a couple.", "sentence_bad": "Anne must think about herself gets a couple.", "phenomena": "binding"}
+{"sentence_good": "Bill must think about himself covering a memory.", "sentence_bad": "Bill must think about himself covered a memory.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself covering a memory.", "sentence_bad": "Sarah must think about herself covered a memory.", "phenomena": "binding"}
+{"sentence_good": "Bill must think about himself calling a memory.", "sentence_bad": "Bill must think about himself calls a memory.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself calling a memory.", "sentence_bad": "Sarah must think about herself calls a memory.", "phenomena": "binding"}
+{"sentence_good": "Mark must not think about himself serving this whale.", "sentence_bad": "Mark must not think about himself served this whale.", "phenomena": "binding"}
+{"sentence_good": "Mark must not think about himself going to this whale.", "sentence_bad": "Mark must not think about himself goes to this whale.", "phenomena": "binding"}
+{"sentence_good": "Mark must think about himself moving the dinner.", "sentence_bad": "Mark must think about himself moved the dinner.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself moving the dinner.", "sentence_bad": "Sarah must think about herself moved the dinner.", "phenomena": "binding"}
+{"sentence_good": "Mark must think about himself turning the dinner.", "sentence_bad": "Mark must think about himself turns the dinner.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself turning the dinner.", "sentence_bad": "Sarah must think about herself turns the dinner.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself living in some book.", "sentence_bad": "Anne thinks about herself lived in some book.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself recording some book.", "sentence_bad": "Anne thinks about herself records some book.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself serving this home.", "sentence_bad": "Anne thinks about herself served this home.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself moving this home.", "sentence_bad": "Anne thinks about herself moves this home.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself serving the baby.", "sentence_bad": "Sarah thinks about herself served the baby.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself taking the baby.", "sentence_bad": "Sarah thinks about herself takes the baby.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself reading a stadium.", "sentence_bad": "Sarah must not think about herself read a stadium.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself getting a stadium.", "sentence_bad": "Sarah must not think about herself gets a stadium.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself trying the cast.", "sentence_bad": "Sarah thought about herself tried the cast.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself testing the cast.", "sentence_bad": "Sarah thought about herself tests the cast.", "phenomena": "binding"}
+{"sentence_good": "Roger must think about himself putting away this movie.", "sentence_bad": "Roger must think about himself put away this movie.", "phenomena": "binding"}
+{"sentence_good": "Roger must think about himself calling this movie.", "sentence_bad": "Roger must think about himself calls this movie.", "phenomena": "binding"}
+{"sentence_good": "Bill did not think about himself covering this whale.", "sentence_bad": "Bill did not think about himself covered this whale.", "phenomena": "binding"}
+{"sentence_good": "Bill did not think about himself starting this whale.", "sentence_bad": "Bill did not think about himself starts this whale.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself starting this whale.", "sentence_bad": "Sarah did not think about herself starts this whale.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself putting away the lady.", "sentence_bad": "Anne did not think about herself put away the lady.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself changing the lady.", "sentence_bad": "Anne did not think about herself changes the lady.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself setting up some media.", "sentence_bad": "Sarah thinks about herself set up some media.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself changing some media.", "sentence_bad": "Sarah thinks about herself changes some media.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself setting up some lady.", "sentence_bad": "Sarah thinks about herself set up some lady.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself moving some lady.", "sentence_bad": "Sarah thinks about herself moves some lady.", "phenomena": "binding"}
+{"sentence_good": "Mark must think about himself running to a lady.", "sentence_bad": "Mark must think about himself ran to a lady.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself running to a lady.", "sentence_bad": "Sarah must think about herself ran to a lady.", "phenomena": "binding"}
+{"sentence_good": "Mark must think about himself getting a lady.", "sentence_bad": "Mark must think about himself gets a lady.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself getting a lady.", "sentence_bad": "Sarah must think about herself gets a lady.", "phenomena": "binding"}
+{"sentence_good": "Bill could think about himself living in a color.", "sentence_bad": "Bill could think about himself lived in a color.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself living in a color.", "sentence_bad": "Anne could think about herself lived in a color.", "phenomena": "binding"}
+{"sentence_good": "Bill could think about himself turning a color.", "sentence_bad": "Bill could think about himself turns a color.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself turning a color.", "sentence_bad": "Anne could think about herself turns a color.", "phenomena": "binding"}
+{"sentence_good": "Alexander must not think about himself serving that dinner.", "sentence_bad": "Alexander must not think about himself served that dinner.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself serving that dinner.", "sentence_bad": "Anne must not think about herself served that dinner.", "phenomena": "binding"}
+{"sentence_good": "Alexander must not think about himself moving that dinner.", "sentence_bad": "Alexander must not think about himself moves that dinner.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself moving that dinner.", "sentence_bad": "Anne must not think about herself moves that dinner.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself moving the scale.", "sentence_bad": "Sarah thought about herself moved the scale.", "phenomena": "binding"}
+{"sentence_good": "Mark did not think about himself putting away some cabinet.", "sentence_bad": "Mark did not think about himself put away some cabinet.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself putting away some cabinet.", "sentence_bad": "Anne did not think about herself put away some cabinet.", "phenomena": "binding"}
+{"sentence_good": "Mark did not think about himself getting some cabinet.", "sentence_bad": "Mark did not think about himself gets some cabinet.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself getting some cabinet.", "sentence_bad": "Anne did not think about herself gets some cabinet.", "phenomena": "binding"}
+{"sentence_good": "Sam thinks about himself reading some dance.", "sentence_bad": "Sam thinks about himself read some dance.", "phenomena": "binding"}
+{"sentence_good": "Sam thinks about himself planning some dance.", "sentence_bad": "Sam thinks about himself plans some dance.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself calling this bank.", "sentence_bad": "Anne did not think about herself called this bank.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself reading some dance.", "sentence_bad": "Sarah thought about herself read some dance.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself taking some dance.", "sentence_bad": "Sarah thought about herself takes some dance.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself moving that media.", "sentence_bad": "Anne must think about herself moved that media.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself calling that media.", "sentence_bad": "Anne must think about herself calls that media.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself serving that couple.", "sentence_bad": "Sarah did not think about herself served that couple.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself looking at that couple.", "sentence_bad": "Sarah did not think about herself looks at that couple.", "phenomena": "binding"}
+{"sentence_good": "Sam thought about himself serving this scale.", "sentence_bad": "Sam thought about himself served this scale.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself serving this scale.", "sentence_bad": "Sarah thought about herself served this scale.", "phenomena": "binding"}
+{"sentence_good": "Sam thought about himself depending this scale.", "sentence_bad": "Sam thought about himself depends this scale.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself depending this scale.", "sentence_bad": "Sarah thought about herself depends this scale.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself setting up this counter.", "sentence_bad": "Sarah thought about herself set up this counter.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself taking this counter.", "sentence_bad": "Sarah thought about herself takes this counter.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself calling an apple.", "sentence_bad": "Anne must not think about herself called an apple.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself seeing an apple.", "sentence_bad": "Anne must not think about herself sees an apple.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself putting away a general.", "sentence_bad": "Sarah must not think about herself put away a general.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself going to a general.", "sentence_bad": "Sarah must not think about herself goes to a general.", "phenomena": "binding"}
+{"sentence_good": "Bill could think about himself trying a general.", "sentence_bad": "Bill could think about himself tried a general.", "phenomena": "binding"}
+{"sentence_good": "Bill could think about himself looking at a general.", "sentence_bad": "Bill could think about himself looks at a general.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself putting away that label.", "sentence_bad": "Anne must think about herself put away that label.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself getting that label.", "sentence_bad": "Anne must think about herself gets that label.", "phenomena": "binding"}
+{"sentence_good": "Thomas thought about himself moving some growth.", "sentence_bad": "Thomas thought about himself moved some growth.", "phenomena": "binding"}
+{"sentence_good": "Thomas thought about himself going to some growth.", "sentence_bad": "Thomas thought about himself goes to some growth.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself trying some fuel.", "sentence_bad": "Anne must think about herself tried some fuel.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself planning some fuel.", "sentence_bad": "Anne must think about herself plans some fuel.", "phenomena": "binding"}
+{"sentence_good": "John must think about himself trying a picture.", "sentence_bad": "John must think about himself tried a picture.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself trying a picture.", "sentence_bad": "Anne must think about herself tried a picture.", "phenomena": "binding"}
+{"sentence_good": "John must think about himself making a picture.", "sentence_bad": "John must think about himself makes a picture.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself making a picture.", "sentence_bad": "Anne must think about herself makes a picture.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself moving a ball.", "sentence_bad": "Sarah must not think about herself moved a ball.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself getting a ball.", "sentence_bad": "Sarah must not think about herself gets a ball.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself running to some stand.", "sentence_bad": "Sarah could think about herself ran to some stand.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself showing off some stand.", "sentence_bad": "Sarah could think about herself shows off some stand.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself reading that camera.", "sentence_bad": "Sarah thought about herself read that camera.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself depending that camera.", "sentence_bad": "Sarah thought about herself depends that camera.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself reading some dance.", "sentence_bad": "Sarah must not think about herself read some dance.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself changing some dance.", "sentence_bad": "Sarah must not think about herself changes some dance.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself running to that valley.", "sentence_bad": "Sarah did not think about herself ran to that valley.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself seeing that valley.", "sentence_bad": "Sarah did not think about herself sees that valley.", "phenomena": "binding"}
+{"sentence_good": "Roger must think about himself running to that general.", "sentence_bad": "Roger must think about himself ran to that general.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself running to the cabinet.", "sentence_bad": "Anne could think about herself ran to the cabinet.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself moving the cabinet.", "sentence_bad": "Anne could think about herself moves the cabinet.", "phenomena": "binding"}
+{"sentence_good": "Mark must not think about himself calling that mirror.", "sentence_bad": "Mark must not think about himself called that mirror.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself calling that mirror.", "sentence_bad": "Sarah must not think about herself called that mirror.", "phenomena": "binding"}
+{"sentence_good": "Mark must not think about himself looking at that mirror.", "sentence_bad": "Mark must not think about himself looks at that mirror.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself looking at that mirror.", "sentence_bad": "Sarah must not think about herself looks at that mirror.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself reading that whale.", "sentence_bad": "Sarah thought about herself read that whale.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself covering that whale.", "sentence_bad": "Sarah thought about herself covers that whale.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself running to that tradition.", "sentence_bad": "Sarah could think about herself ran to that tradition.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself covering that tradition.", "sentence_bad": "Sarah could think about herself covers that tradition.", "phenomena": "binding"}
+{"sentence_good": "Roger thought about himself covering that person.", "sentence_bad": "Roger thought about himself covered that person.", "phenomena": "binding"}
+{"sentence_good": "Roger thought about himself depending that person.", "sentence_bad": "Roger thought about himself depends that person.", "phenomena": "binding"}
+{"sentence_good": "Bill must think about himself setting up that guess.", "sentence_bad": "Bill must think about himself set up that guess.", "phenomena": "binding"}
+{"sentence_good": "Bill must think about himself calling that guess.", "sentence_bad": "Bill must think about himself calls that guess.", "phenomena": "binding"}
+{"sentence_good": "Alexander must not think about himself living in this couple.", "sentence_bad": "Alexander must not think about himself lived in this couple.", "phenomena": "binding"}
+{"sentence_good": "Alexander must not think about himself making this couple.", "sentence_bad": "Alexander must not think about himself makes this couple.", "phenomena": "binding"}
+{"sentence_good": "Thomas must not think about himself moving this dinner.", "sentence_bad": "Thomas must not think about himself moved this dinner.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself moving this dinner.", "sentence_bad": "Sarah must not think about herself moved this dinner.", "phenomena": "binding"}
+{"sentence_good": "Thomas must not think about himself starting this dinner.", "sentence_bad": "Thomas must not think about himself starts this dinner.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself starting this dinner.", "sentence_bad": "Sarah must not think about herself starts this dinner.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself trying this bet.", "sentence_bad": "Sarah could think about herself tried this bet.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself seeing this bet.", "sentence_bad": "Sarah could think about herself sees this bet.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself trying that apple.", "sentence_bad": "Sarah thinks about herself tried that apple.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself turning that apple.", "sentence_bad": "Sarah thinks about herself turns that apple.", "phenomena": "binding"}
+{"sentence_good": "Alexander must not think about himself reading a truck.", "sentence_bad": "Alexander must not think about himself read a truck.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself reading a truck.", "sentence_bad": "Sarah must not think about herself read a truck.", "phenomena": "binding"}
+{"sentence_good": "Alexander must not think about himself depending a truck.", "sentence_bad": "Alexander must not think about himself depends a truck.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself depending a truck.", "sentence_bad": "Sarah must not think about herself depends a truck.", "phenomena": "binding"}
+{"sentence_good": "John thought about himself putting away the clock.", "sentence_bad": "John thought about himself put away the clock.", "phenomena": "binding"}
+{"sentence_good": "John thought about himself moving the clock.", "sentence_bad": "John thought about himself moves the clock.", "phenomena": "binding"}
+{"sentence_good": "Thomas must not think about himself calling the stand.", "sentence_bad": "Thomas must not think about himself called the stand.", "phenomena": "binding"}
+{"sentence_good": "Mark thought about himself running to that movie.", "sentence_bad": "Mark thought about himself ran to that movie.", "phenomena": "binding"}
+{"sentence_good": "Mark thought about himself taking that movie.", "sentence_bad": "Mark thought about himself takes that movie.", "phenomena": "binding"}
+{"sentence_good": "Roger did not think about himself putting away a cabinet.", "sentence_bad": "Roger did not think about himself put away a cabinet.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself putting away a cabinet.", "sentence_bad": "Sarah did not think about herself put away a cabinet.", "phenomena": "binding"}
+{"sentence_good": "Roger did not think about himself getting a cabinet.", "sentence_bad": "Roger did not think about himself gets a cabinet.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself getting a cabinet.", "sentence_bad": "Sarah did not think about herself gets a cabinet.", "phenomena": "binding"}
+{"sentence_good": "Joseph thinks about himself setting up the dance.", "sentence_bad": "Joseph thinks about himself set up the dance.", "phenomena": "binding"}
+{"sentence_good": "Joseph thinks about himself turning the dance.", "sentence_bad": "Joseph thinks about himself turns the dance.", "phenomena": "binding"}
+{"sentence_good": "Mark could think about himself running to some color.", "sentence_bad": "Mark could think about himself ran to some color.", "phenomena": "binding"}
+{"sentence_good": "Mark could think about himself turning some color.", "sentence_bad": "Mark could think about himself turns some color.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself covering this bet.", "sentence_bad": "Sarah must think about herself covered this bet.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself starting this bet.", "sentence_bad": "Sarah must think about herself starts this bet.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself serving that memory.", "sentence_bad": "Sarah did not think about herself served that memory.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself starting that memory.", "sentence_bad": "Sarah did not think about herself starts that memory.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself moving the boom.", "sentence_bad": "Anne must not think about herself moved the boom.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself covering the boom.", "sentence_bad": "Anne must not think about herself covers the boom.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself serving the cast.", "sentence_bad": "Sarah did not think about herself served the cast.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself going to the cast.", "sentence_bad": "Sarah did not think about herself goes to the cast.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself setting up this media.", "sentence_bad": "Anne thinks about herself set up this media.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself going to this media.", "sentence_bad": "Anne thinks about herself goes to this media.", "phenomena": "binding"}
+{"sentence_good": "Joseph must not think about himself reading the label.", "sentence_bad": "Joseph must not think about himself read the label.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself reading the label.", "sentence_bad": "Sarah must not think about herself read the label.", "phenomena": "binding"}
+{"sentence_good": "Joseph must not think about himself starting the label.", "sentence_bad": "Joseph must not think about himself starts the label.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself starting the label.", "sentence_bad": "Sarah must not think about herself starts the label.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself covering a clock.", "sentence_bad": "Sarah must not think about herself covered a clock.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself depending a clock.", "sentence_bad": "Sarah must not think about herself depends a clock.", "phenomena": "binding"}
+{"sentence_good": "John did not think about himself setting up that picture.", "sentence_bad": "John did not think about himself set up that picture.", "phenomena": "binding"}
+{"sentence_good": "John did not think about himself planning that picture.", "sentence_bad": "John did not think about himself plans that picture.", "phenomena": "binding"}
+{"sentence_good": "Sam could think about himself putting away the baby.", "sentence_bad": "Sam could think about himself put away the baby.", "phenomena": "binding"}
+{"sentence_good": "Sam could think about himself depending the baby.", "sentence_bad": "Sam could think about himself depends the baby.", "phenomena": "binding"}
+{"sentence_good": "Joseph thought about himself running to some game.", "sentence_bad": "Joseph thought about himself ran to some game.", "phenomena": "binding"}
+{"sentence_good": "Joseph thought about himself turning some game.", "sentence_bad": "Joseph thought about himself turns some game.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself moving this tradition.", "sentence_bad": "Sarah thought about herself moved this tradition.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself covering this tradition.", "sentence_bad": "Sarah thought about herself covers this tradition.", "phenomena": "binding"}
+{"sentence_good": "Alexander must not think about himself covering this general.", "sentence_bad": "Alexander must not think about himself covered this general.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself covering this general.", "sentence_bad": "Anne must not think about herself covered this general.", "phenomena": "binding"}
+{"sentence_good": "Alexander must not think about himself depending this general.", "sentence_bad": "Alexander must not think about himself depends this general.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself depending this general.", "sentence_bad": "Anne must not think about herself depends this general.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself serving a guess.", "sentence_bad": "Sarah thinks about herself served a guess.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself looking at a guess.", "sentence_bad": "Sarah thinks about herself looks at a guess.", "phenomena": "binding"}
+{"sentence_good": "Mark thought about himself covering the color.", "sentence_bad": "Mark thought about himself covered the color.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself covering the color.", "sentence_bad": "Anne thought about herself covered the color.", "phenomena": "binding"}
+{"sentence_good": "Mark thought about himself planning the color.", "sentence_bad": "Mark thought about himself plans the color.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself planning the color.", "sentence_bad": "Anne thought about herself plans the color.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself running to this game.", "sentence_bad": "Anne could think about herself ran to this game.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself planning this game.", "sentence_bad": "Anne could think about herself plans this game.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself putting away some hill.", "sentence_bad": "Sarah must think about herself put away some hill.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself moving some hill.", "sentence_bad": "Sarah must think about herself moves some hill.", "phenomena": "binding"}
+{"sentence_good": "Mark thought about himself trying that home.", "sentence_bad": "Mark thought about himself tried that home.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself trying that home.", "sentence_bad": "Anne thought about herself tried that home.", "phenomena": "binding"}
+{"sentence_good": "Mark thought about himself starting that home.", "sentence_bad": "Mark thought about himself starts that home.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself starting that home.", "sentence_bad": "Anne thought about herself starts that home.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself covering a procedure.", "sentence_bad": "Sarah must think about herself covered a procedure.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself changing a procedure.", "sentence_bad": "Sarah must think about herself changes a procedure.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself living in the label.", "sentence_bad": "Sarah thought about herself lived in the label.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself recording the label.", "sentence_bad": "Sarah thought about herself records the label.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself setting up this access.", "sentence_bad": "Sarah must not think about herself set up this access.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself seeing this access.", "sentence_bad": "Sarah must not think about herself sees this access.", "phenomena": "binding"}
+{"sentence_good": "Sam must not think about himself trying a color.", "sentence_bad": "Sam must not think about himself tried a color.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself trying a color.", "sentence_bad": "Sarah must not think about herself tried a color.", "phenomena": "binding"}
+{"sentence_good": "Sam must not think about himself taking a color.", "sentence_bad": "Sam must not think about himself takes a color.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself taking a color.", "sentence_bad": "Sarah must not think about herself takes a color.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself moving the home.", "sentence_bad": "Sarah must think about herself moved the home.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself starting the home.", "sentence_bad": "Sarah must think about herself starts the home.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself trying some night.", "sentence_bad": "Anne could think about herself tried some night.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself getting some night.", "sentence_bad": "Anne could think about herself gets some night.", "phenomena": "binding"}
+{"sentence_good": "Thomas did not think about himself covering that home.", "sentence_bad": "Thomas did not think about himself covered that home.", "phenomena": "binding"}
+{"sentence_good": "Thomas did not think about himself making that home.", "sentence_bad": "Thomas did not think about himself makes that home.", "phenomena": "binding"}
+{"sentence_good": "Joseph thinks about himself serving a label.", "sentence_bad": "Joseph thinks about himself served a label.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself serving a label.", "sentence_bad": "Anne thinks about herself served a label.", "phenomena": "binding"}
+{"sentence_good": "Joseph thinks about himself testing a label.", "sentence_bad": "Joseph thinks about himself tests a label.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself testing a label.", "sentence_bad": "Anne thinks about herself tests a label.", "phenomena": "binding"}
+{"sentence_good": "Roger did not think about himself moving the tradition.", "sentence_bad": "Roger did not think about himself moved the tradition.", "phenomena": "binding"}
+{"sentence_good": "Roger did not think about himself getting the tradition.", "sentence_bad": "Roger did not think about himself gets the tradition.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself trying this clock.", "sentence_bad": "Anne did not think about herself tried this clock.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself covering this clock.", "sentence_bad": "Anne did not think about herself covers this clock.", "phenomena": "binding"}
+{"sentence_good": "Alexander must think about himself serving the growth.", "sentence_bad": "Alexander must think about himself served the growth.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself serving the growth.", "sentence_bad": "Anne must think about herself served the growth.", "phenomena": "binding"}
+{"sentence_good": "Alexander must think about himself moving the growth.", "sentence_bad": "Alexander must think about himself moves the growth.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself moving the growth.", "sentence_bad": "Anne must think about herself moves the growth.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself trying this access.", "sentence_bad": "Sarah thinks about herself tried this access.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself running to this access.", "sentence_bad": "Sarah thinks about herself runs to this access.", "phenomena": "binding"}
+{"sentence_good": "Joseph must think about himself covering this person.", "sentence_bad": "Joseph must think about himself covered this person.", "phenomena": "binding"}
+{"sentence_good": "Joseph must think about himself making this person.", "sentence_bad": "Joseph must think about himself makes this person.", "phenomena": "binding"}
+{"sentence_good": "Thomas must not think about himself running to some mirror.", "sentence_bad": "Thomas must not think about himself ran to some mirror.", "phenomena": "binding"}
+{"sentence_good": "Thomas must not think about himself planning some mirror.", "sentence_bad": "Thomas must not think about himself plans some mirror.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself running to that rock.", "sentence_bad": "Sarah thinks about herself ran to that rock.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself standing that rock.", "sentence_bad": "Sarah thinks about herself stands that rock.", "phenomena": "binding"}
+{"sentence_good": "Sam could think about himself moving some plan.", "sentence_bad": "Sam could think about himself moved some plan.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself moving some plan.", "sentence_bad": "Sarah could think about herself moved some plan.", "phenomena": "binding"}
+{"sentence_good": "Sam could think about himself testing some plan.", "sentence_bad": "Sam could think about himself tests some plan.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself testing some plan.", "sentence_bad": "Sarah could think about herself tests some plan.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself reading that scale.", "sentence_bad": "Sarah thinks about herself read that scale.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself calling that scale.", "sentence_bad": "Sarah thinks about herself calls that scale.", "phenomena": "binding"}
+{"sentence_good": "Mark must think about himself covering that couple.", "sentence_bad": "Mark must think about himself covered that couple.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself covering that couple.", "sentence_bad": "Sarah must think about herself covered that couple.", "phenomena": "binding"}
+{"sentence_good": "Mark must think about himself making that couple.", "sentence_bad": "Mark must think about himself makes that couple.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself making that couple.", "sentence_bad": "Sarah must think about herself makes that couple.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself serving this boom.", "sentence_bad": "Sarah did not think about herself served this boom.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself looking at this boom.", "sentence_bad": "Sarah did not think about herself looks at this boom.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself trying this drop.", "sentence_bad": "Anne thought about herself tried this drop.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself turning this drop.", "sentence_bad": "Anne thought about herself turns this drop.", "phenomena": "binding"}
+{"sentence_good": "Mark must think about himself putting away that mirror.", "sentence_bad": "Mark must think about himself put away that mirror.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself putting away that mirror.", "sentence_bad": "Sarah must think about herself put away that mirror.", "phenomena": "binding"}
+{"sentence_good": "Mark must think about himself taking that mirror.", "sentence_bad": "Mark must think about himself takes that mirror.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself taking that mirror.", "sentence_bad": "Sarah must think about herself takes that mirror.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself setting up a guess.", "sentence_bad": "Anne must not think about herself set up a guess.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself seeing a guess.", "sentence_bad": "Anne must not think about herself sees a guess.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself trying this fuel.", "sentence_bad": "Anne did not think about herself tried this fuel.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself testing this fuel.", "sentence_bad": "Anne did not think about herself tests this fuel.", "phenomena": "binding"}
+{"sentence_good": "Bill could think about himself trying the home.", "sentence_bad": "Bill could think about himself tried the home.", "phenomena": "binding"}
+{"sentence_good": "Bill could think about himself getting the home.", "sentence_bad": "Bill could think about himself gets the home.", "phenomena": "binding"}
+{"sentence_good": "Mark thought about himself putting away that fuel.", "sentence_bad": "Mark thought about himself put away that fuel.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself putting away that fuel.", "sentence_bad": "Sarah thought about herself put away that fuel.", "phenomena": "binding"}
+{"sentence_good": "Mark thought about himself looking at that fuel.", "sentence_bad": "Mark thought about himself looks at that fuel.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself looking at that fuel.", "sentence_bad": "Sarah thought about herself looks at that fuel.", "phenomena": "binding"}
+{"sentence_good": "Mark could think about himself covering that counter.", "sentence_bad": "Mark could think about himself covered that counter.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself covering that counter.", "sentence_bad": "Sarah could think about herself covered that counter.", "phenomena": "binding"}
+{"sentence_good": "Mark could think about himself recording that counter.", "sentence_bad": "Mark could think about himself records that counter.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself recording that counter.", "sentence_bad": "Sarah could think about herself records that counter.", "phenomena": "binding"}
+{"sentence_good": "John must not think about himself putting away the dance.", "sentence_bad": "John must not think about himself put away the dance.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself putting away the dance.", "sentence_bad": "Sarah must not think about herself put away the dance.", "phenomena": "binding"}
+{"sentence_good": "John must not think about himself covering the dance.", "sentence_bad": "John must not think about himself covers the dance.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself covering the dance.", "sentence_bad": "Sarah must not think about herself covers the dance.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself reading the whale.", "sentence_bad": "Anne thought about herself read the whale.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself studying the whale.", "sentence_bad": "Anne thought about herself studies the whale.", "phenomena": "binding"}
+{"sentence_good": "John must think about himself living in that rock.", "sentence_bad": "John must think about himself lived in that rock.", "phenomena": "binding"}
+{"sentence_good": "John must think about himself getting that rock.", "sentence_bad": "John must think about himself gets that rock.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself living in this access.", "sentence_bad": "Sarah did not think about herself lived in this access.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself running to this access.", "sentence_bad": "Sarah did not think about herself runs to this access.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself trying the clock.", "sentence_bad": "Sarah thinks about herself tried the clock.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself calling the clock.", "sentence_bad": "Sarah thinks about herself calls the clock.", "phenomena": "binding"}
+{"sentence_good": "Mark must not think about himself putting away the clock.", "sentence_bad": "Mark must not think about himself put away the clock.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself putting away the clock.", "sentence_bad": "Anne must not think about herself put away the clock.", "phenomena": "binding"}
+{"sentence_good": "Mark must not think about himself recording the clock.", "sentence_bad": "Mark must not think about himself records the clock.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself recording the clock.", "sentence_bad": "Anne must not think about herself records the clock.", "phenomena": "binding"}
+{"sentence_good": "Mark could think about himself trying that growth.", "sentence_bad": "Mark could think about himself tried that growth.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself trying that growth.", "sentence_bad": "Sarah could think about herself tried that growth.", "phenomena": "binding"}
+{"sentence_good": "Mark could think about himself calling that growth.", "sentence_bad": "Mark could think about himself calls that growth.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself calling that growth.", "sentence_bad": "Sarah could think about herself calls that growth.", "phenomena": "binding"}
+{"sentence_good": "Roger must not think about himself living in some fuel.", "sentence_bad": "Roger must not think about himself lived in some fuel.", "phenomena": "binding"}
+{"sentence_good": "Roger must not think about himself starting some fuel.", "sentence_bad": "Roger must not think about himself starts some fuel.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself covering a clock.", "sentence_bad": "Anne must think about herself covered a clock.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself calling a clock.", "sentence_bad": "Anne must think about herself calls a clock.", "phenomena": "binding"}
+{"sentence_good": "Joseph must not think about himself setting up this dance.", "sentence_bad": "Joseph must not think about himself set up this dance.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself setting up this dance.", "sentence_bad": "Sarah must not think about herself set up this dance.", "phenomena": "binding"}
+{"sentence_good": "Joseph must not think about himself standing this dance.", "sentence_bad": "Joseph must not think about himself stands this dance.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself standing this dance.", "sentence_bad": "Sarah must not think about herself stands this dance.", "phenomena": "binding"}
+{"sentence_good": "John must not think about himself setting up some mirror.", "sentence_bad": "John must not think about himself set up some mirror.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself setting up some mirror.", "sentence_bad": "Anne must not think about herself set up some mirror.", "phenomena": "binding"}
+{"sentence_good": "John must not think about himself looking at some mirror.", "sentence_bad": "John must not think about himself looks at some mirror.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself looking at some mirror.", "sentence_bad": "Anne must not think about herself looks at some mirror.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself putting away a scale.", "sentence_bad": "Anne must think about herself put away a scale.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself testing a scale.", "sentence_bad": "Anne must think about herself tests a scale.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself calling this book.", "sentence_bad": "Sarah thinks about herself called this book.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself planning this book.", "sentence_bad": "Sarah thinks about herself plans this book.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself serving this rock.", "sentence_bad": "Anne did not think about herself served this rock.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself going to this rock.", "sentence_bad": "Anne did not think about herself goes to this rock.", "phenomena": "binding"}
+{"sentence_good": "John must think about himself moving some tradition.", "sentence_bad": "John must think about himself moved some tradition.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself moving some tradition.", "sentence_bad": "Anne must think about herself moved some tradition.", "phenomena": "binding"}
+{"sentence_good": "John must think about himself looking at some tradition.", "sentence_bad": "John must think about himself looks at some tradition.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself looking at some tradition.", "sentence_bad": "Anne must think about herself looks at some tradition.", "phenomena": "binding"}
+{"sentence_good": "Thomas must not think about himself trying this mind.", "sentence_bad": "Thomas must not think about himself tried this mind.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself trying this mind.", "sentence_bad": "Anne must not think about herself tried this mind.", "phenomena": "binding"}
+{"sentence_good": "Thomas must not think about himself moving this mind.", "sentence_bad": "Thomas must not think about himself moves this mind.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself moving this mind.", "sentence_bad": "Anne must not think about herself moves this mind.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself living in this boom.", "sentence_bad": "Anne must think about herself lived in this boom.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself showing off this boom.", "sentence_bad": "Anne must think about herself shows off this boom.", "phenomena": "binding"}
+{"sentence_good": "Mark must think about himself setting up the sky.", "sentence_bad": "Mark must think about himself set up the sky.", "phenomena": "binding"}
+{"sentence_good": "Mark must think about himself planning the sky.", "sentence_bad": "Mark must think about himself plans the sky.", "phenomena": "binding"}
+{"sentence_good": "Sam did not think about himself living in that night.", "sentence_bad": "Sam did not think about himself lived in that night.", "phenomena": "binding"}
+{"sentence_good": "Sam did not think about himself taking that night.", "sentence_bad": "Sam did not think about himself takes that night.", "phenomena": "binding"}
+{"sentence_good": "Sam thought about himself trying that bet.", "sentence_bad": "Sam thought about himself tried that bet.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself trying that bet.", "sentence_bad": "Anne thought about herself tried that bet.", "phenomena": "binding"}
+{"sentence_good": "Sam thought about himself turning that bet.", "sentence_bad": "Sam thought about himself turns that bet.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself turning that bet.", "sentence_bad": "Anne thought about herself turns that bet.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself trying that label.", "sentence_bad": "Sarah must think about herself tried that label.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself planning that label.", "sentence_bad": "Sarah must think about herself plans that label.", "phenomena": "binding"}
+{"sentence_good": "Roger must not think about himself calling the picture.", "sentence_bad": "Roger must not think about himself called the picture.", "phenomena": "binding"}
+{"sentence_good": "Roger must not think about himself standing the picture.", "sentence_bad": "Roger must not think about himself stands the picture.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself living in some growth.", "sentence_bad": "Anne must think about herself lived in some growth.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself getting some growth.", "sentence_bad": "Anne must think about herself gets some growth.", "phenomena": "binding"}
+{"sentence_good": "John thought about himself setting up some drop.", "sentence_bad": "John thought about himself set up some drop.", "phenomena": "binding"}
+{"sentence_good": "John thought about himself calling some drop.", "sentence_bad": "John thought about himself calls some drop.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself running to a procedure.", "sentence_bad": "Sarah did not think about herself ran to a procedure.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself looking at a procedure.", "sentence_bad": "Sarah did not think about herself looks at a procedure.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself reading this game.", "sentence_bad": "Sarah did not think about herself read this game.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself standing this game.", "sentence_bad": "Sarah did not think about herself stands this game.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself living in some valley.", "sentence_bad": "Sarah thinks about herself lived in some valley.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself depending some valley.", "sentence_bad": "Sarah thinks about herself depends some valley.", "phenomena": "binding"}
+{"sentence_good": "Roger thinks about himself running to a mind.", "sentence_bad": "Roger thinks about himself ran to a mind.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself running to a mind.", "sentence_bad": "Anne thinks about herself ran to a mind.", "phenomena": "binding"}
+{"sentence_good": "Roger thinks about himself calling a mind.", "sentence_bad": "Roger thinks about himself calls a mind.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself calling a mind.", "sentence_bad": "Anne thinks about herself calls a mind.", "phenomena": "binding"}
+{"sentence_good": "Thomas did not think about himself covering that scale.", "sentence_bad": "Thomas did not think about himself covered that scale.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself covering that scale.", "sentence_bad": "Sarah did not think about herself covered that scale.", "phenomena": "binding"}
+{"sentence_good": "Thomas did not think about himself studying that scale.", "sentence_bad": "Thomas did not think about himself studies that scale.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself studying that scale.", "sentence_bad": "Sarah did not think about herself studies that scale.", "phenomena": "binding"}
+{"sentence_good": "Alexander did not think about himself putting away the rock.", "sentence_bad": "Alexander did not think about himself put away the rock.", "phenomena": "binding"}
+{"sentence_good": "Alexander did not think about himself testing the rock.", "sentence_bad": "Alexander did not think about himself tests the rock.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself trying this cast.", "sentence_bad": "Sarah did not think about herself tried this cast.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself planning this cast.", "sentence_bad": "Sarah did not think about herself plans this cast.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself living in a label.", "sentence_bad": "Sarah thinks about herself lived in a label.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself studying a label.", "sentence_bad": "Sarah thinks about herself studies a label.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself trying this camera.", "sentence_bad": "Anne thought about herself tried this camera.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself getting this camera.", "sentence_bad": "Anne thought about herself gets this camera.", "phenomena": "binding"}
+{"sentence_good": "Thomas could think about himself serving the media.", "sentence_bad": "Thomas could think about himself served the media.", "phenomena": "binding"}
+{"sentence_good": "Thomas could think about himself calling the media.", "sentence_bad": "Thomas could think about himself calls the media.", "phenomena": "binding"}
+{"sentence_good": "Thomas thinks about himself running to a color.", "sentence_bad": "Thomas thinks about himself ran to a color.", "phenomena": "binding"}
+{"sentence_good": "Thomas thinks about himself showing off a color.", "sentence_bad": "Thomas thinks about himself shows off a color.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself living in the mind.", "sentence_bad": "Sarah thinks about herself lived in the mind.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself moving the mind.", "sentence_bad": "Sarah thinks about herself moves the mind.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself putting away this baby.", "sentence_bad": "Sarah must think about herself put away this baby.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself making this baby.", "sentence_bad": "Sarah must think about herself makes this baby.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself setting up the procedure.", "sentence_bad": "Sarah could think about herself set up the procedure.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself showing off the procedure.", "sentence_bad": "Sarah could think about herself shows off the procedure.", "phenomena": "binding"}
+{"sentence_good": "John must not think about himself moving this night.", "sentence_bad": "John must not think about himself moved this night.", "phenomena": "binding"}
+{"sentence_good": "John must not think about himself covering this night.", "sentence_bad": "John must not think about himself covers this night.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself living in some lady.", "sentence_bad": "Sarah could think about herself lived in some lady.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself making some lady.", "sentence_bad": "Sarah could think about herself makes some lady.", "phenomena": "binding"}
+{"sentence_good": "John thinks about himself trying the camera.", "sentence_bad": "John thinks about himself tried the camera.", "phenomena": "binding"}
+{"sentence_good": "John thinks about himself moving the camera.", "sentence_bad": "John thinks about himself moves the camera.", "phenomena": "binding"}
+{"sentence_good": "Roger did not think about himself reading some plan.", "sentence_bad": "Roger did not think about himself read some plan.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself reading some plan.", "sentence_bad": "Anne did not think about herself read some plan.", "phenomena": "binding"}
+{"sentence_good": "Roger did not think about himself looking at some plan.", "sentence_bad": "Roger did not think about himself looks at some plan.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself looking at some plan.", "sentence_bad": "Anne did not think about herself looks at some plan.", "phenomena": "binding"}
+{"sentence_good": "Mark must not think about himself reading the hill.", "sentence_bad": "Mark must not think about himself read the hill.", "phenomena": "binding"}
+{"sentence_good": "Mark must not think about himself studying the hill.", "sentence_bad": "Mark must not think about himself studies the hill.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself living in the movie.", "sentence_bad": "Anne did not think about herself lived in the movie.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself studying the movie.", "sentence_bad": "Anne did not think about herself studies the movie.", "phenomena": "binding"}
+{"sentence_good": "John thought about himself putting away a bet.", "sentence_bad": "John thought about himself put away a bet.", "phenomena": "binding"}
+{"sentence_good": "John thought about himself making a bet.", "sentence_bad": "John thought about himself makes a bet.", "phenomena": "binding"}
+{"sentence_good": "Mark did not think about himself putting away that bear.", "sentence_bad": "Mark did not think about himself put away that bear.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself putting away that bear.", "sentence_bad": "Sarah did not think about herself put away that bear.", "phenomena": "binding"}
+{"sentence_good": "Mark did not think about himself going to that bear.", "sentence_bad": "Mark did not think about himself goes to that bear.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself going to that bear.", "sentence_bad": "Sarah did not think about herself goes to that bear.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself covering some growth.", "sentence_bad": "Anne thought about herself covered some growth.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself living in a drop.", "sentence_bad": "Anne must think about herself lived in a drop.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself getting a drop.", "sentence_bad": "Anne must think about herself gets a drop.", "phenomena": "binding"}
+{"sentence_good": "Bill could think about himself living in a sky.", "sentence_bad": "Bill could think about himself lived in a sky.", "phenomena": "binding"}
+{"sentence_good": "Bill could think about himself studying a sky.", "sentence_bad": "Bill could think about himself studies a sky.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself reading that plan.", "sentence_bad": "Sarah did not think about herself read that plan.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself covering that plan.", "sentence_bad": "Sarah did not think about herself covers that plan.", "phenomena": "binding"}
+{"sentence_good": "Mark thinks about himself setting up this hill.", "sentence_bad": "Mark thinks about himself set up this hill.", "phenomena": "binding"}
+{"sentence_good": "Mark thinks about himself showing off this hill.", "sentence_bad": "Mark thinks about himself shows off this hill.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself covering that bet.", "sentence_bad": "Anne thought about herself covered that bet.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself seeing that bet.", "sentence_bad": "Anne thought about herself sees that bet.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself covering a drop.", "sentence_bad": "Sarah could think about herself covered a drop.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself studying a drop.", "sentence_bad": "Sarah could think about herself studies a drop.", "phenomena": "binding"}
+{"sentence_good": "John thinks about himself calling that cabinet.", "sentence_bad": "John thinks about himself called that cabinet.", "phenomena": "binding"}
+{"sentence_good": "John thinks about himself changing that cabinet.", "sentence_bad": "John thinks about himself changes that cabinet.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself moving this mirror.", "sentence_bad": "Sarah thought about herself moved this mirror.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself looking at this mirror.", "sentence_bad": "Sarah thought about herself looks at this mirror.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself reading that bear.", "sentence_bad": "Sarah did not think about herself read that bear.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself seeing that bear.", "sentence_bad": "Sarah did not think about herself sees that bear.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself moving this mirror.", "sentence_bad": "Sarah did not think about herself moved this mirror.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself taking this mirror.", "sentence_bad": "Sarah did not think about herself takes this mirror.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself moving that whale.", "sentence_bad": "Anne must think about herself moved that whale.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself changing that whale.", "sentence_bad": "Anne must think about herself changes that whale.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself living in a ball.", "sentence_bad": "Sarah must think about herself lived in a ball.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself showing off a ball.", "sentence_bad": "Sarah must think about herself shows off a ball.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself living in some label.", "sentence_bad": "Anne must think about herself lived in some label.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself running to some label.", "sentence_bad": "Anne must think about herself runs to some label.", "phenomena": "binding"}
+{"sentence_good": "Alexander thinks about himself running to the bird.", "sentence_bad": "Alexander thinks about himself ran to the bird.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself running to the bird.", "sentence_bad": "Sarah thinks about herself ran to the bird.", "phenomena": "binding"}
+{"sentence_good": "Alexander thinks about himself showing off the bird.", "sentence_bad": "Alexander thinks about himself shows off the bird.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself showing off the bird.", "sentence_bad": "Sarah thinks about herself shows off the bird.", "phenomena": "binding"}
+{"sentence_good": "Joseph must not think about himself running to a home.", "sentence_bad": "Joseph must not think about himself ran to a home.", "phenomena": "binding"}
+{"sentence_good": "Joseph must not think about himself planning a home.", "sentence_bad": "Joseph must not think about himself plans a home.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself reading some procedure.", "sentence_bad": "Sarah thinks about herself read some procedure.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself going to some procedure.", "sentence_bad": "Sarah thinks about herself goes to some procedure.", "phenomena": "binding"}
+{"sentence_good": "Bill thinks about himself setting up this color.", "sentence_bad": "Bill thinks about himself set up this color.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself setting up this color.", "sentence_bad": "Sarah thinks about herself set up this color.", "phenomena": "binding"}
+{"sentence_good": "Bill thinks about himself going to this color.", "sentence_bad": "Bill thinks about himself goes to this color.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself going to this color.", "sentence_bad": "Sarah thinks about herself goes to this color.", "phenomena": "binding"}
+{"sentence_good": "Alexander thought about himself running to the baby.", "sentence_bad": "Alexander thought about himself ran to the baby.", "phenomena": "binding"}
+{"sentence_good": "Alexander thought about himself planning the baby.", "sentence_bad": "Alexander thought about himself plans the baby.", "phenomena": "binding"}
+{"sentence_good": "Sam must not think about himself living in this general.", "sentence_bad": "Sam must not think about himself lived in this general.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself living in this general.", "sentence_bad": "Anne must not think about herself lived in this general.", "phenomena": "binding"}
+{"sentence_good": "Sam must not think about himself studying this general.", "sentence_bad": "Sam must not think about himself studies this general.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself studying this general.", "sentence_bad": "Anne must not think about herself studies this general.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself calling this color.", "sentence_bad": "Anne thinks about herself called this color.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself going to this color.", "sentence_bad": "Anne thinks about herself goes to this color.", "phenomena": "binding"}
+{"sentence_good": "Roger could think about himself moving some camera.", "sentence_bad": "Roger could think about himself moved some camera.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself moving some camera.", "sentence_bad": "Anne could think about herself moved some camera.", "phenomena": "binding"}
+{"sentence_good": "Roger could think about himself making some camera.", "sentence_bad": "Roger could think about himself makes some camera.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself making some camera.", "sentence_bad": "Anne could think about herself makes some camera.", "phenomena": "binding"}
+{"sentence_good": "Roger must not think about himself reading that growth.", "sentence_bad": "Roger must not think about himself read that growth.", "phenomena": "binding"}
+{"sentence_good": "Roger must not think about himself planning that growth.", "sentence_bad": "Roger must not think about himself plans that growth.", "phenomena": "binding"}
+{"sentence_good": "Sam must not think about himself living in that media.", "sentence_bad": "Sam must not think about himself lived in that media.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself living in that media.", "sentence_bad": "Anne must not think about herself lived in that media.", "phenomena": "binding"}
+{"sentence_good": "Sam must not think about himself studying that media.", "sentence_bad": "Sam must not think about himself studies that media.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself studying that media.", "sentence_bad": "Anne must not think about herself studies that media.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself trying this fuel.", "sentence_bad": "Anne must not think about herself tried this fuel.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself covering this fuel.", "sentence_bad": "Anne must not think about herself covers this fuel.", "phenomena": "binding"}
+{"sentence_good": "Alexander could think about himself calling this whale.", "sentence_bad": "Alexander could think about himself called this whale.", "phenomena": "binding"}
+{"sentence_good": "Alexander could think about himself moving this whale.", "sentence_bad": "Alexander could think about himself moves this whale.", "phenomena": "binding"}
+{"sentence_good": "Joseph could think about himself running to some memory.", "sentence_bad": "Joseph could think about himself ran to some memory.", "phenomena": "binding"}
+{"sentence_good": "Joseph could think about himself getting some memory.", "sentence_bad": "Joseph could think about himself gets some memory.", "phenomena": "binding"}
+{"sentence_good": "Joseph did not think about himself putting away that scale.", "sentence_bad": "Joseph did not think about himself put away that scale.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself putting away that scale.", "sentence_bad": "Sarah did not think about herself put away that scale.", "phenomena": "binding"}
+{"sentence_good": "Joseph did not think about himself testing that scale.", "sentence_bad": "Joseph did not think about himself tests that scale.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself testing that scale.", "sentence_bad": "Sarah did not think about herself tests that scale.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself calling a night.", "sentence_bad": "Anne did not think about herself called a night.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself going to a night.", "sentence_bad": "Anne did not think about herself goes to a night.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself reading that memory.", "sentence_bad": "Sarah did not think about herself read that memory.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself making that memory.", "sentence_bad": "Sarah did not think about herself makes that memory.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself setting up the truck.", "sentence_bad": "Anne must not think about herself set up the truck.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself making the truck.", "sentence_bad": "Anne must not think about herself makes the truck.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself setting up a game.", "sentence_bad": "Sarah must not think about herself set up a game.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself recording a game.", "sentence_bad": "Sarah must not think about herself records a game.", "phenomena": "binding"}
+{"sentence_good": "John must think about himself serving some hill.", "sentence_bad": "John must think about himself served some hill.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself serving some hill.", "sentence_bad": "Anne must think about herself served some hill.", "phenomena": "binding"}
+{"sentence_good": "John must think about himself studying some hill.", "sentence_bad": "John must think about himself studies some hill.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself studying some hill.", "sentence_bad": "Anne must think about herself studies some hill.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself trying this drop.", "sentence_bad": "Anne could think about herself tried this drop.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself getting this drop.", "sentence_bad": "Anne could think about herself gets this drop.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself calling some cast.", "sentence_bad": "Sarah thought about herself called some cast.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself going to some cast.", "sentence_bad": "Sarah thought about herself goes to some cast.", "phenomena": "binding"}
+{"sentence_good": "Bill thought about himself serving that plan.", "sentence_bad": "Bill thought about himself served that plan.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself serving that plan.", "sentence_bad": "Anne thought about herself served that plan.", "phenomena": "binding"}
+{"sentence_good": "Bill thought about himself showing off that plan.", "sentence_bad": "Bill thought about himself shows off that plan.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself showing off that plan.", "sentence_bad": "Anne thought about herself shows off that plan.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself running to this rock.", "sentence_bad": "Sarah could think about herself ran to this rock.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself standing this rock.", "sentence_bad": "Sarah could think about herself stands this rock.", "phenomena": "binding"}
+{"sentence_good": "Roger could think about himself reading this growth.", "sentence_bad": "Roger could think about himself read this growth.", "phenomena": "binding"}
+{"sentence_good": "Roger could think about himself looking at this growth.", "sentence_bad": "Roger could think about himself looks at this growth.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself trying the picture.", "sentence_bad": "Sarah must not think about herself tried the picture.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself standing the picture.", "sentence_bad": "Sarah must not think about herself stands the picture.", "phenomena": "binding"}
+{"sentence_good": "Joseph thought about himself moving this valley.", "sentence_bad": "Joseph thought about himself moved this valley.", "phenomena": "binding"}
+{"sentence_good": "Joseph thought about himself standing this valley.", "sentence_bad": "Joseph thought about himself stands this valley.", "phenomena": "binding"}
+{"sentence_good": "Alexander thought about himself living in that memory.", "sentence_bad": "Alexander thought about himself lived in that memory.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself living in that memory.", "sentence_bad": "Sarah thought about herself lived in that memory.", "phenomena": "binding"}
+{"sentence_good": "Alexander thought about himself turning that memory.", "sentence_bad": "Alexander thought about himself turns that memory.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself turning that memory.", "sentence_bad": "Sarah thought about herself turns that memory.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself serving this night.", "sentence_bad": "Sarah must not think about herself served this night.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself seeing this night.", "sentence_bad": "Sarah must not think about herself sees this night.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself trying a drop.", "sentence_bad": "Sarah thought about herself tried a drop.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself turning a drop.", "sentence_bad": "Sarah thought about herself turns a drop.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself calling the bear.", "sentence_bad": "Sarah thinks about herself called the bear.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself looking at the bear.", "sentence_bad": "Sarah thinks about herself looks at the bear.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself running to a whale.", "sentence_bad": "Anne thought about herself ran to a whale.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself testing a whale.", "sentence_bad": "Anne thought about herself tests a whale.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself serving that scale.", "sentence_bad": "Sarah thought about herself served that scale.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself going to that scale.", "sentence_bad": "Sarah thought about herself goes to that scale.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself moving some stand.", "sentence_bad": "Sarah thinks about herself moved some stand.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself making some stand.", "sentence_bad": "Sarah thinks about herself makes some stand.", "phenomena": "binding"}
+{"sentence_good": "Mark could think about himself putting away this bird.", "sentence_bad": "Mark could think about himself put away this bird.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself putting away this bird.", "sentence_bad": "Sarah could think about herself put away this bird.", "phenomena": "binding"}
+{"sentence_good": "Mark could think about himself covering this bird.", "sentence_bad": "Mark could think about himself covers this bird.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself covering this bird.", "sentence_bad": "Sarah could think about herself covers this bird.", "phenomena": "binding"}
+{"sentence_good": "Joseph did not think about himself calling a bird.", "sentence_bad": "Joseph did not think about himself called a bird.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself calling a bird.", "sentence_bad": "Anne did not think about herself called a bird.", "phenomena": "binding"}
+{"sentence_good": "Joseph did not think about himself showing off a bird.", "sentence_bad": "Joseph did not think about himself shows off a bird.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself showing off a bird.", "sentence_bad": "Anne did not think about herself shows off a bird.", "phenomena": "binding"}
+{"sentence_good": "Sam thinks about himself reading this camera.", "sentence_bad": "Sam thinks about himself read this camera.", "phenomena": "binding"}
+{"sentence_good": "Sam thinks about himself making this camera.", "sentence_bad": "Sam thinks about himself makes this camera.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself moving that lady.", "sentence_bad": "Sarah thinks about herself moved that lady.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself getting that lady.", "sentence_bad": "Sarah thinks about herself gets that lady.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself setting up the rock.", "sentence_bad": "Anne must think about herself set up the rock.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself taking the rock.", "sentence_bad": "Anne must think about herself takes the rock.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself reading this boom.", "sentence_bad": "Anne must not think about herself read this boom.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself looking at this boom.", "sentence_bad": "Anne must not think about herself looks at this boom.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself covering that bank.", "sentence_bad": "Sarah must think about herself covered that bank.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself seeing that bank.", "sentence_bad": "Sarah must think about herself sees that bank.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself reading a color.", "sentence_bad": "Anne did not think about herself read a color.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself showing off a color.", "sentence_bad": "Anne did not think about herself shows off a color.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself covering the stadium.", "sentence_bad": "Sarah must think about herself covered the stadium.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself recording the stadium.", "sentence_bad": "Sarah must think about herself records the stadium.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself reading a stand.", "sentence_bad": "Sarah did not think about herself read a stand.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself taking a stand.", "sentence_bad": "Sarah did not think about herself takes a stand.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself trying that stand.", "sentence_bad": "Sarah thought about herself tried that stand.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself standing that stand.", "sentence_bad": "Sarah thought about herself stands that stand.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself setting up that camera.", "sentence_bad": "Anne must not think about herself set up that camera.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself changing that camera.", "sentence_bad": "Anne must not think about herself changes that camera.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself trying the movie.", "sentence_bad": "Anne could think about herself tried the movie.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself taking the movie.", "sentence_bad": "Anne could think about herself takes the movie.", "phenomena": "binding"}
+{"sentence_good": "Sam must not think about himself moving that couple.", "sentence_bad": "Sam must not think about himself moved that couple.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself moving that couple.", "sentence_bad": "Sarah must not think about herself moved that couple.", "phenomena": "binding"}
+{"sentence_good": "Sam must not think about himself changing that couple.", "sentence_bad": "Sam must not think about himself changes that couple.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself changing that couple.", "sentence_bad": "Sarah must not think about herself changes that couple.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself running to some book.", "sentence_bad": "Sarah could think about herself ran to some book.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself going to some book.", "sentence_bad": "Sarah could think about herself goes to some book.", "phenomena": "binding"}
+{"sentence_good": "Thomas thinks about himself moving a mind.", "sentence_bad": "Thomas thinks about himself moved a mind.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself moving a mind.", "sentence_bad": "Sarah thinks about herself moved a mind.", "phenomena": "binding"}
+{"sentence_good": "Thomas thinks about himself calling a mind.", "sentence_bad": "Thomas thinks about himself calls a mind.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself calling a mind.", "sentence_bad": "Sarah thinks about herself calls a mind.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself putting away a rock.", "sentence_bad": "Anne thinks about herself put away a rock.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself changing a rock.", "sentence_bad": "Anne thinks about herself changes a rock.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself covering the access.", "sentence_bad": "Anne thinks about herself covered the access.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself turning the access.", "sentence_bad": "Anne thinks about herself turns the access.", "phenomena": "binding"}
+{"sentence_good": "Roger could think about himself putting away the counter.", "sentence_bad": "Roger could think about himself put away the counter.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself putting away the counter.", "sentence_bad": "Anne could think about herself put away the counter.", "phenomena": "binding"}
+{"sentence_good": "Roger could think about himself standing the counter.", "sentence_bad": "Roger could think about himself stands the counter.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself standing the counter.", "sentence_bad": "Anne could think about herself stands the counter.", "phenomena": "binding"}
+{"sentence_good": "Sam thought about himself covering a rock.", "sentence_bad": "Sam thought about himself covered a rock.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself covering a rock.", "sentence_bad": "Sarah thought about herself covered a rock.", "phenomena": "binding"}
+{"sentence_good": "Sam thought about himself looking at a rock.", "sentence_bad": "Sam thought about himself looks at a rock.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself looking at a rock.", "sentence_bad": "Sarah thought about herself looks at a rock.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself setting up the drop.", "sentence_bad": "Sarah must think about herself set up the drop.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself studying the drop.", "sentence_bad": "Sarah must think about herself studies the drop.", "phenomena": "binding"}
+{"sentence_good": "John could think about himself moving some couple.", "sentence_bad": "John could think about himself moved some couple.", "phenomena": "binding"}
+{"sentence_good": "John could think about himself making some couple.", "sentence_bad": "John could think about himself makes some couple.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself living in this couple.", "sentence_bad": "Sarah must not think about herself lived in this couple.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself covering this couple.", "sentence_bad": "Sarah must not think about herself covers this couple.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself setting up the boom.", "sentence_bad": "Sarah thinks about herself set up the boom.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself recording the boom.", "sentence_bad": "Sarah thinks about herself records the boom.", "phenomena": "binding"}
+{"sentence_good": "Sam thinks about himself setting up some rock.", "sentence_bad": "Sam thinks about himself set up some rock.", "phenomena": "binding"}
+{"sentence_good": "Sam thinks about himself turning some rock.", "sentence_bad": "Sam thinks about himself turns some rock.", "phenomena": "binding"}
+{"sentence_good": "Bill must think about himself calling the drop.", "sentence_bad": "Bill must think about himself called the drop.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself calling the drop.", "sentence_bad": "Sarah must think about herself called the drop.", "phenomena": "binding"}
+{"sentence_good": "Bill must think about himself testing the drop.", "sentence_bad": "Bill must think about himself tests the drop.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself testing the drop.", "sentence_bad": "Sarah must think about herself tests the drop.", "phenomena": "binding"}
+{"sentence_good": "Roger thinks about himself reading some sky.", "sentence_bad": "Roger thinks about himself read some sky.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself reading some sky.", "sentence_bad": "Sarah thinks about herself read some sky.", "phenomena": "binding"}
+{"sentence_good": "Roger thinks about himself testing some sky.", "sentence_bad": "Roger thinks about himself tests some sky.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself testing some sky.", "sentence_bad": "Sarah thinks about herself tests some sky.", "phenomena": "binding"}
+{"sentence_good": "Roger thinks about himself covering some stadium.", "sentence_bad": "Roger thinks about himself covered some stadium.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself covering some stadium.", "sentence_bad": "Sarah thinks about herself covered some stadium.", "phenomena": "binding"}
+{"sentence_good": "Roger thinks about himself testing some stadium.", "sentence_bad": "Roger thinks about himself tests some stadium.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself testing some stadium.", "sentence_bad": "Sarah thinks about herself tests some stadium.", "phenomena": "binding"}
+{"sentence_good": "Bill must think about himself reading some access.", "sentence_bad": "Bill must think about himself read some access.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself reading some access.", "sentence_bad": "Sarah must think about herself read some access.", "phenomena": "binding"}
+{"sentence_good": "Bill must think about himself seeing some access.", "sentence_bad": "Bill must think about himself sees some access.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself seeing some access.", "sentence_bad": "Sarah must think about herself sees some access.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself serving that mind.", "sentence_bad": "Anne could think about herself served that mind.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself going to that mind.", "sentence_bad": "Anne could think about herself goes to that mind.", "phenomena": "binding"}
+{"sentence_good": "Joseph could think about himself serving that stand.", "sentence_bad": "Joseph could think about himself served that stand.", "phenomena": "binding"}
+{"sentence_good": "Joseph could think about himself depending that stand.", "sentence_bad": "Joseph could think about himself depends that stand.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself moving the counter.", "sentence_bad": "Sarah thinks about herself moved the counter.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself standing the counter.", "sentence_bad": "Sarah thinks about herself stands the counter.", "phenomena": "binding"}
+{"sentence_good": "Mark thinks about himself serving some mirror.", "sentence_bad": "Mark thinks about himself served some mirror.", "phenomena": "binding"}
+{"sentence_good": "Mark thinks about himself going to some mirror.", "sentence_bad": "Mark thinks about himself goes to some mirror.", "phenomena": "binding"}
+{"sentence_good": "Alexander must not think about himself moving the dinner.", "sentence_bad": "Alexander must not think about himself moved the dinner.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself moving the dinner.", "sentence_bad": "Anne must not think about herself moved the dinner.", "phenomena": "binding"}
+{"sentence_good": "Alexander must not think about himself getting the dinner.", "sentence_bad": "Alexander must not think about himself gets the dinner.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself getting the dinner.", "sentence_bad": "Anne must not think about herself gets the dinner.", "phenomena": "binding"}
+{"sentence_good": "Mark must think about himself putting away the valley.", "sentence_bad": "Mark must think about himself put away the valley.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself putting away the valley.", "sentence_bad": "Anne must think about herself put away the valley.", "phenomena": "binding"}
+{"sentence_good": "Mark must think about himself looking at the valley.", "sentence_bad": "Mark must think about himself looks at the valley.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself looking at the valley.", "sentence_bad": "Anne must think about herself looks at the valley.", "phenomena": "binding"}
+{"sentence_good": "Thomas must not think about himself living in this plan.", "sentence_bad": "Thomas must not think about himself lived in this plan.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself living in this plan.", "sentence_bad": "Sarah must not think about herself lived in this plan.", "phenomena": "binding"}
+{"sentence_good": "Thomas must not think about himself starting this plan.", "sentence_bad": "Thomas must not think about himself starts this plan.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself starting this plan.", "sentence_bad": "Sarah must not think about herself starts this plan.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself covering a tradition.", "sentence_bad": "Sarah did not think about herself covered a tradition.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself standing a tradition.", "sentence_bad": "Sarah did not think about herself stands a tradition.", "phenomena": "binding"}
+{"sentence_good": "John did not think about himself serving this stadium.", "sentence_bad": "John did not think about himself served this stadium.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself serving this stadium.", "sentence_bad": "Anne did not think about herself served this stadium.", "phenomena": "binding"}
+{"sentence_good": "John did not think about himself studying this stadium.", "sentence_bad": "John did not think about himself studies this stadium.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself studying this stadium.", "sentence_bad": "Anne did not think about herself studies this stadium.", "phenomena": "binding"}
+{"sentence_good": "Roger did not think about himself setting up a person.", "sentence_bad": "Roger did not think about himself set up a person.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself setting up a person.", "sentence_bad": "Anne did not think about herself set up a person.", "phenomena": "binding"}
+{"sentence_good": "Roger did not think about himself showing off a person.", "sentence_bad": "Roger did not think about himself shows off a person.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself showing off a person.", "sentence_bad": "Anne did not think about herself shows off a person.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself living in a bank.", "sentence_bad": "Anne did not think about herself lived in a bank.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself changing a bank.", "sentence_bad": "Anne did not think about herself changes a bank.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself trying this access.", "sentence_bad": "Anne thought about herself tried this access.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself covering this access.", "sentence_bad": "Anne thought about herself covers this access.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself reading some label.", "sentence_bad": "Anne thinks about herself read some label.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself seeing some label.", "sentence_bad": "Anne thinks about herself sees some label.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself covering the mind.", "sentence_bad": "Anne could think about herself covered the mind.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself changing the mind.", "sentence_bad": "Anne could think about herself changes the mind.", "phenomena": "binding"}
+{"sentence_good": "Mark did not think about himself trying a growth.", "sentence_bad": "Mark did not think about himself tried a growth.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself trying a growth.", "sentence_bad": "Anne did not think about herself tried a growth.", "phenomena": "binding"}
+{"sentence_good": "Mark did not think about himself planning a growth.", "sentence_bad": "Mark did not think about himself plans a growth.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself planning a growth.", "sentence_bad": "Anne did not think about herself plans a growth.", "phenomena": "binding"}
+{"sentence_good": "Bill must think about himself covering a home.", "sentence_bad": "Bill must think about himself covered a home.", "phenomena": "binding"}
+{"sentence_good": "Bill must think about himself getting a home.", "sentence_bad": "Bill must think about himself gets a home.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself serving that memory.", "sentence_bad": "Anne could think about herself served that memory.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself starting that memory.", "sentence_bad": "Anne could think about herself starts that memory.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself running to that drop.", "sentence_bad": "Anne did not think about herself ran to that drop.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself calling that drop.", "sentence_bad": "Anne did not think about herself calls that drop.", "phenomena": "binding"}
+{"sentence_good": "John must not think about himself moving a stadium.", "sentence_bad": "John must not think about himself moved a stadium.", "phenomena": "binding"}
+{"sentence_good": "John must not think about himself recording a stadium.", "sentence_bad": "John must not think about himself records a stadium.", "phenomena": "binding"}
+{"sentence_good": "Bill thinks about himself moving some hill.", "sentence_bad": "Bill thinks about himself moved some hill.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself moving some hill.", "sentence_bad": "Sarah thinks about herself moved some hill.", "phenomena": "binding"}
+{"sentence_good": "Bill thinks about himself changing some hill.", "sentence_bad": "Bill thinks about himself changes some hill.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself changing some hill.", "sentence_bad": "Sarah thinks about herself changes some hill.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself trying some whale.", "sentence_bad": "Anne thinks about herself tried some whale.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself running to some whale.", "sentence_bad": "Anne thinks about herself runs to some whale.", "phenomena": "binding"}
+{"sentence_good": "Bill must not think about himself covering that memory.", "sentence_bad": "Bill must not think about himself covered that memory.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself covering that memory.", "sentence_bad": "Sarah must not think about herself covered that memory.", "phenomena": "binding"}
+{"sentence_good": "Bill must not think about himself making that memory.", "sentence_bad": "Bill must not think about himself makes that memory.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself making that memory.", "sentence_bad": "Sarah must not think about herself makes that memory.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself serving the baby.", "sentence_bad": "Anne must not think about herself served the baby.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself calling the baby.", "sentence_bad": "Anne must not think about herself calls the baby.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself trying the apple.", "sentence_bad": "Anne could think about herself tried the apple.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself turning the apple.", "sentence_bad": "Anne could think about herself turns the apple.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself reading this scale.", "sentence_bad": "Sarah did not think about herself read this scale.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself starting this scale.", "sentence_bad": "Sarah did not think about herself starts this scale.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself trying the bank.", "sentence_bad": "Anne did not think about herself tried the bank.", "phenomena": "binding"}
+{"sentence_good": "Anne did not think about herself planning the bank.", "sentence_bad": "Anne did not think about herself plans the bank.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself calling the bet.", "sentence_bad": "Sarah thinks about herself called the bet.", "phenomena": "binding"}
+{"sentence_good": "Sarah thinks about herself recording the bet.", "sentence_bad": "Sarah thinks about herself records the bet.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself reading some book.", "sentence_bad": "Sarah thought about herself read some book.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself showing off some book.", "sentence_bad": "Sarah thought about herself shows off some book.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself calling the general.", "sentence_bad": "Anne must not think about herself called the general.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself showing off the general.", "sentence_bad": "Anne must not think about herself shows off the general.", "phenomena": "binding"}
+{"sentence_good": "Roger must not think about himself reading this couple.", "sentence_bad": "Roger must not think about himself read this couple.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself reading this couple.", "sentence_bad": "Sarah must not think about herself read this couple.", "phenomena": "binding"}
+{"sentence_good": "Roger must not think about himself studying this couple.", "sentence_bad": "Roger must not think about himself studies this couple.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself studying this couple.", "sentence_bad": "Sarah must not think about herself studies this couple.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself putting away this suit.", "sentence_bad": "Anne thinks about herself put away this suit.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself studying this suit.", "sentence_bad": "Anne thinks about herself studies this suit.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself covering a night.", "sentence_bad": "Anne thinks about herself covered a night.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself starting a night.", "sentence_bad": "Anne thinks about herself starts a night.", "phenomena": "binding"}
+{"sentence_good": "Thomas could think about himself calling this access.", "sentence_bad": "Thomas could think about himself called this access.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself calling this access.", "sentence_bad": "Sarah could think about herself called this access.", "phenomena": "binding"}
+{"sentence_good": "Thomas could think about himself depending this access.", "sentence_bad": "Thomas could think about himself depends this access.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself depending this access.", "sentence_bad": "Sarah could think about herself depends this access.", "phenomena": "binding"}
+{"sentence_good": "Mark could think about himself living in that memory.", "sentence_bad": "Mark could think about himself lived in that memory.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself living in that memory.", "sentence_bad": "Sarah could think about herself lived in that memory.", "phenomena": "binding"}
+{"sentence_good": "Mark could think about himself showing off that memory.", "sentence_bad": "Mark could think about himself shows off that memory.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself showing off that memory.", "sentence_bad": "Sarah could think about herself shows off that memory.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself calling that cast.", "sentence_bad": "Anne could think about herself called that cast.", "phenomena": "binding"}
+{"sentence_good": "Anne could think about herself changing that cast.", "sentence_bad": "Anne could think about herself changes that cast.", "phenomena": "binding"}
+{"sentence_good": "Sam must think about himself putting away this person.", "sentence_bad": "Sam must think about himself put away this person.", "phenomena": "binding"}
+{"sentence_good": "Sam must think about himself turning this person.", "sentence_bad": "Sam must think about himself turns this person.", "phenomena": "binding"}
+{"sentence_good": "Alexander must think about himself calling the camera.", "sentence_bad": "Alexander must think about himself called the camera.", "phenomena": "binding"}
+{"sentence_good": "Alexander must think about himself seeing the camera.", "sentence_bad": "Alexander must think about himself sees the camera.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself serving a movie.", "sentence_bad": "Sarah must think about herself served a movie.", "phenomena": "binding"}
+{"sentence_good": "Sarah must think about herself planning a movie.", "sentence_bad": "Sarah must think about herself plans a movie.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself setting up the color.", "sentence_bad": "Sarah did not think about herself set up the color.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself running to the color.", "sentence_bad": "Sarah did not think about herself runs to the color.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself calling some person.", "sentence_bad": "Sarah must not think about herself called some person.", "phenomena": "binding"}
+{"sentence_good": "Sarah must not think about herself studying some person.", "sentence_bad": "Sarah must not think about herself studies some person.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself serving that procedure.", "sentence_bad": "Anne must think about herself served that procedure.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself making that procedure.", "sentence_bad": "Anne must think about herself makes that procedure.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself running to the drop.", "sentence_bad": "Anne must think about herself ran to the drop.", "phenomena": "binding"}
+{"sentence_good": "Anne must think about herself turning the drop.", "sentence_bad": "Anne must think about herself turns the drop.", "phenomena": "binding"}
+{"sentence_good": "Joseph thought about himself covering the ball.", "sentence_bad": "Joseph thought about himself covered the ball.", "phenomena": "binding"}
+{"sentence_good": "Joseph thought about himself getting the ball.", "sentence_bad": "Joseph thought about himself gets the ball.", "phenomena": "binding"}
+{"sentence_good": "Mark must not think about himself calling that rock.", "sentence_bad": "Mark must not think about himself called that rock.", "phenomena": "binding"}
+{"sentence_good": "Mark must not think about himself moving that rock.", "sentence_bad": "Mark must not think about himself moves that rock.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself calling the home.", "sentence_bad": "Anne thinks about herself called the home.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself making the home.", "sentence_bad": "Anne thinks about herself makes the home.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself trying some dinner.", "sentence_bad": "Anne thinks about herself tried some dinner.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself seeing some dinner.", "sentence_bad": "Anne thinks about herself sees some dinner.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself setting up that bank.", "sentence_bad": "Sarah thought about herself set up that bank.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself moving that bank.", "sentence_bad": "Sarah thought about herself moves that bank.", "phenomena": "binding"}
+{"sentence_good": "Alexander must think about himself covering some sky.", "sentence_bad": "Alexander must think about himself covered some sky.", "phenomena": "binding"}
+{"sentence_good": "Alexander must think about himself testing some sky.", "sentence_bad": "Alexander must think about himself tests some sky.", "phenomena": "binding"}
+{"sentence_good": "Roger did not think about himself trying this baby.", "sentence_bad": "Roger did not think about himself tried this baby.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself trying this baby.", "sentence_bad": "Sarah did not think about herself tried this baby.", "phenomena": "binding"}
+{"sentence_good": "Roger did not think about himself making this baby.", "sentence_bad": "Roger did not think about himself makes this baby.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself making this baby.", "sentence_bad": "Sarah did not think about herself makes this baby.", "phenomena": "binding"}
+{"sentence_good": "John thought about himself putting away that memory.", "sentence_bad": "John thought about himself put away that memory.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself putting away that memory.", "sentence_bad": "Sarah thought about herself put away that memory.", "phenomena": "binding"}
+{"sentence_good": "John thought about himself running to that memory.", "sentence_bad": "John thought about himself runs to that memory.", "phenomena": "binding"}
+{"sentence_good": "Sarah thought about herself running to that memory.", "sentence_bad": "Sarah thought about herself runs to that memory.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself setting up a mind.", "sentence_bad": "Sarah could think about herself set up a mind.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself planning a mind.", "sentence_bad": "Sarah could think about herself plans a mind.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself covering that color.", "sentence_bad": "Anne must not think about herself covered that color.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself making that color.", "sentence_bad": "Anne must not think about herself makes that color.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself calling that valley.", "sentence_bad": "Anne thought about herself called that valley.", "phenomena": "binding"}
+{"sentence_good": "Anne thought about herself standing that valley.", "sentence_bad": "Anne thought about herself stands that valley.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself moving that stadium.", "sentence_bad": "Sarah could think about herself moved that stadium.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself going to that stadium.", "sentence_bad": "Sarah could think about herself goes to that stadium.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself trying the stadium.", "sentence_bad": "Anne must not think about herself tried the stadium.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself planning the stadium.", "sentence_bad": "Anne must not think about herself plans the stadium.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself covering this stadium.", "sentence_bad": "Anne must not think about herself covered this stadium.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself recording this stadium.", "sentence_bad": "Anne must not think about herself records this stadium.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself setting up the stadium.", "sentence_bad": "Anne thinks about herself set up the stadium.", "phenomena": "binding"}
+{"sentence_good": "Anne thinks about herself recording the stadium.", "sentence_bad": "Anne thinks about herself records the stadium.", "phenomena": "binding"}
+{"sentence_good": "Joseph did not think about himself calling that bird.", "sentence_bad": "Joseph did not think about himself called that bird.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself calling that bird.", "sentence_bad": "Sarah did not think about herself called that bird.", "phenomena": "binding"}
+{"sentence_good": "Joseph did not think about himself covering that bird.", "sentence_bad": "Joseph did not think about himself covers that bird.", "phenomena": "binding"}
+{"sentence_good": "Sarah did not think about herself covering that bird.", "sentence_bad": "Sarah did not think about herself covers that bird.", "phenomena": "binding"}
+{"sentence_good": "Sam could think about himself living in a stadium.", "sentence_bad": "Sam could think about himself lived in a stadium.", "phenomena": "binding"}
+{"sentence_good": "Sam could think about himself covering a stadium.", "sentence_bad": "Sam could think about himself covers a stadium.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself trying a dinner.", "sentence_bad": "Sarah could think about herself tried a dinner.", "phenomena": "binding"}
+{"sentence_good": "Sarah could think about herself recording a dinner.", "sentence_bad": "Sarah could think about herself records a dinner.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself running to the cabinet.", "sentence_bad": "Anne must not think about herself ran to the cabinet.", "phenomena": "binding"}
+{"sentence_good": "Anne must not think about herself seeing the cabinet.", "sentence_bad": "Anne must not think about herself sees the cabinet.", "phenomena": "binding"}

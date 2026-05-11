@@ -1,0 +1,772 @@
+{"sentence_good": "\\n\\n **Mom**: Alexander came too late over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander come too late over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had come too late over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had came too late over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander knew a lot of things over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander known a lot of things over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had known a lot of things over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had knew a lot of things over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger wrote with a large pen some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger written with a large pen some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had written with a large pen some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had wrote with a large pen some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah came when we needed her some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah come when we needed her some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had come when we needed her some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had came when we needed her some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah became someone else last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah become someone else last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had become someone else last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had became someone else last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger drew a map some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger drawn a map some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had drawn a map some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had drew a map some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah spoke without thinking at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah spoken without thinking at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had spoken without thinking at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had spoke without thinking at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger saw a shape last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger seen a shape last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had seen a shape last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had saw a shape last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark came when we needed her this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark come when we needed her this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had come when we needed her this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had came when we needed her this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander gave something sweet to the baby some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander given something sweet to the baby some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had given something sweet to the baby some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had gave something sweet to the baby some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander came too late this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander come too late this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had come too late this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had came too late this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark became someone else some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark become someone else some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had become someone else some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had became someone else some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah spoke without thinking over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah spoken without thinking over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had spoken without thinking over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had spoke without thinking over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander saw something some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander seen something some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had seen something some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had saw something some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah chose the best option this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah chosen the best option this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had chosen the best option this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had chose the best option this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah grew quickly this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah grown quickly this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had grown quickly this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had grew quickly this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark drew a picture last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark drawn a picture last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had drawn a picture last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had drew a picture last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark chose the best option over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark chosen the best option over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had chosen the best option over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had chose the best option over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger chose the good one over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger chosen the good one over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had chosen the good one over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had chose the good one over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah knew a lot of things at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah known a lot of things at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had known a lot of things at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had knew a lot of things at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah took a paper some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah taken a paper some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had taken a paper some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had took a paper some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah gave a book to a student some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah given a book to a student some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had given a book to a student some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had gave a book to a student some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger chose the good one some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger chosen the good one some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had chosen the good one some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had chose the good one some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark spoke to me over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark spoken to me over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had spoken to me over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had spoke to me over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger saw something last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger seen something last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had seen something last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had saw something last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger knew she could do it some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger known she could do it some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had known she could do it some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had knew she could do it some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander grew quickly some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander grown quickly some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had grown quickly some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had grew quickly some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark chose the best option this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark chosen the best option this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had chosen the best option this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had chose the best option this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger gave a book to a student some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger given a book to a student some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had given a book to a student some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had gave a book to a student some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander saw something this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander seen something this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had seen something this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had saw something this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark became very different over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark become very different over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had become very different over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had became very different over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah drew a round circle this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah drawn a round circle this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had drawn a round circle this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had drew a round circle this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger wrote with a large pen over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger written with a large pen over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had written with a large pen over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had wrote with a large pen over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah became very different at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah become very different at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had become very different at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had became very different at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark spoke very fast at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark spoken very fast at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had spoken very fast at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had spoke very fast at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander took it at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander taken it at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had taken it at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had took it at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark knew a lot of things last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark known a lot of things last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had known a lot of things last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had knew a lot of things last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger saw a bird some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger seen a bird some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had seen a bird some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had saw a bird some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark knew a lot of things this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark known a lot of things this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had known a lot of things this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had knew a lot of things this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander grew quickly at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander grown quickly at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had grown quickly at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had grew quickly at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger became someone else over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger become someone else over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had become someone else over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had became someone else over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger knew she could do it this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger known she could do it this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had known she could do it this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had knew she could do it this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander wrote with a large pen some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander written with a large pen some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had written with a large pen some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had wrote with a large pen some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah came to the store last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah come to the store last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had come to the store last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had came to the store last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger came just in time last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger come just in time last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had come just in time last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had came just in time last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark wrote with a large pen over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark written with a large pen over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had written with a large pen over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had wrote with a large pen over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger spoke to me this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger spoken to me this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had spoken to me this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had spoke to me this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark grew quickly some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark grown quickly some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had grown quickly some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had grew quickly some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark gave a book to a student this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark given a book to a student this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had given a book to a student this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had gave a book to a student this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander took some food some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander taken some food some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had taken some food some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had took some food some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger drew a picture at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger drawn a picture at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had drawn a picture at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had drew a picture at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah drew a picture last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah drawn a picture last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had drawn a picture last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had drew a picture last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark came too late over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark come too late over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had come too late over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had came too late over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander spoke very fast some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander spoken very fast some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had spoken very fast some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had spoke very fast some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander wrote a note this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander written a note this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had written a note this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had wrote a note this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger took the bell some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger taken the bell some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had taken the bell some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had took the bell some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah took them at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah taken them at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had taken them at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had took them at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger chose the good one this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger chosen the good one this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had chosen the good one this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had chose the good one this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah became someone else some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah become someone else some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had become someone else some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had became someone else some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah chose the good one at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah chosen the good one at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had chosen the good one at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had chose the good one at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah knew she could do it over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah known she could do it over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had known she could do it over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had knew she could do it over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger spoke very fast some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger spoken very fast some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had spoken very fast some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had spoke very fast some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander gave a book to a student last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander given a book to a student last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had given a book to a student last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had gave a book to a student last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark knew a lot of things over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark known a lot of things over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had known a lot of things over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had knew a lot of things over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger took the bell last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger taken the bell last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had taken the bell last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had took the bell last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger became very different last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger become very different last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had become very different last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had became very different last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander chose the best option some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander chosen the best option some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had chosen the best option some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had chose the best option some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander grew quickly this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander grown quickly this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had grown quickly this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had grew quickly this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger grew quickly this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger grown quickly this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had grown quickly this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had grew quickly this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander took them some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander taken them some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had taken them some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had took them some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah came to the store some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah come to the store some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had come to the store some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had came to the store some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger spoke without thinking over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger spoken without thinking over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had spoken without thinking over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had spoke without thinking over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah took a paper this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah taken a paper this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had taken a paper this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had took a paper this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander came just in time last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander come just in time last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had come just in time last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had came just in time last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander drew a round circle at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander drawn a round circle at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had drawn a round circle at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had drew a round circle at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah took it at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah taken it at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had taken it at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had took it at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark spoke about many things last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark spoken about many things last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had spoken about many things last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had spoke about many things last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander took the bell at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander taken the bell at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had taken the bell at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had took the bell at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger spoke without thinking this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger spoken without thinking this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had spoken without thinking this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had spoke without thinking this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger spoke very fast at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger spoken very fast at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had spoken very fast at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had spoke very fast at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger chose the best option some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger chosen the best option some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had chosen the best option some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had chose the best option some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah chose the good one some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah chosen the good one some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had chosen the good one some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had chose the good one some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah wrote a story some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah written a story some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had written a story some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had wrote a story some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah wrote a note over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah written a note over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had written a note over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had wrote a note over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah saw a shape at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah seen a shape at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had seen a shape at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had saw a shape at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander knew a lot of things last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander known a lot of things last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had known a lot of things last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had knew a lot of things last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark came to the store last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark come to the store last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had come to the store last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had came to the store last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark took some food some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark taken some food some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had taken some food some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had took some food some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger became angry this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger become angry this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had become angry this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had became angry this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah took the bell some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah taken the bell some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had taken the bell some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had took the bell some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah grew quickly over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah grown quickly over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had grown quickly over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had grew quickly over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger drew a round circle over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger drawn a round circle over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had drawn a round circle over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had drew a round circle over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark chose the best option some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark chosen the best option some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had chosen the best option some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had chose the best option some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander wrote with a large pen last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander written with a large pen last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had written with a large pen last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had wrote with a large pen last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah wrote with a large pen this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah written with a large pen this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had written with a large pen this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had wrote with a large pen this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark wrote a note over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark written a note over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had written a note over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had wrote a note over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah wrote into a book some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah written into a book some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had written into a book some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had wrote into a book some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark chose the good one some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark chosen the good one some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had chosen the good one some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had chose the good one some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander took them over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander taken them over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had taken them over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had took them over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark took the bell some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark taken the bell some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had taken the bell some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had took the bell some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger knew a lot of things over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger known a lot of things over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had known a lot of things over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had knew a lot of things over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah saw something over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah seen something over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had seen something over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had saw something over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander wrote with a large pen at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander written with a large pen at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had written with a large pen at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had wrote with a large pen at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah drew a round circle over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah drawn a round circle over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had drawn a round circle over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had drew a round circle over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander came to the store over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander come to the store over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had come to the store over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had came to the store over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark chose the good one over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark chosen the good one over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had chosen the good one over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had chose the good one over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah became very different last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah become very different last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had become very different last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had became very different last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah knew a lot of things this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah known a lot of things this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had known a lot of things this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had knew a lot of things this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah knew she could do it at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah known she could do it at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had known she could do it at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had knew she could do it at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah saw a bird last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah seen a bird last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had seen a bird last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had saw a bird last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander knew she could do it some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander known she could do it some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had known she could do it some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had knew she could do it some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark grew quickly over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark grown quickly over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had grown quickly over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had grew quickly over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark became angry over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark become angry over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had become angry over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had became angry over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark saw a bird last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark seen a bird last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had seen a bird last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had saw a bird last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander wrote into a book some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander written into a book some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had written into a book some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had wrote into a book some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah spoke very fast at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah spoken very fast at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had spoken very fast at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had spoke very fast at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark wrote into a book at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark written into a book at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had written into a book at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had wrote into a book at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger knew she could do it at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger known she could do it at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had known she could do it at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had knew she could do it at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah became angry last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah become angry last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had become angry last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had became angry last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah came when we needed her last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah come when we needed her last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had come when we needed her last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had came when we needed her last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander wrote with a large pen over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander written with a large pen over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had written with a large pen over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had wrote with a large pen over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark gave a book to a student at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark given a book to a student at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had given a book to a student at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had gave a book to a student at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah chose the good one this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah chosen the good one this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had chosen the good one this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had chose the good one this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah saw something last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah seen something last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had seen something last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had saw something last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander gave something sweet to the baby over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander given something sweet to the baby over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had given something sweet to the baby over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had gave something sweet to the baby over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark gave something sweet to the baby last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark given something sweet to the baby last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had given something sweet to the baby last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had gave something sweet to the baby last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah saw a shape this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah seen a shape this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had seen a shape this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had saw a shape this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah wrote a note this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah written a note this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had written a note this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had wrote a note this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah took some food last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah taken some food last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had taken some food last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had took some food last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger wrote a story at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger written a story at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had written a story at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had wrote a story at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah came just in time some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah come just in time some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had come just in time some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had came just in time some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger saw something this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger seen something this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had seen something this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had saw something this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah wrote with a large pen over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah written with a large pen over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had written with a large pen over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had wrote with a large pen over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander chose the good one at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander chosen the good one at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had chosen the good one at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had chose the good one at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark grew quickly this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark grown quickly this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had grown quickly this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had grew quickly this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger wrote into a book over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger written into a book over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had written into a book over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had wrote into a book over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark spoke very fast over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark spoken very fast over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had spoken very fast over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had spoke very fast over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander became angry last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander become angry last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had become angry last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had became angry last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark saw a bird over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark seen a bird over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had seen a bird over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had saw a bird over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander came when we needed her some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander come when we needed her some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had come when we needed her some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had came when we needed her some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah drew a round circle some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah drawn a round circle some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had drawn a round circle some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had drew a round circle some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander chose the best option last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander chosen the best option last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had chosen the best option last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had chose the best option last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger wrote a note this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger written a note this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had written a note this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had wrote a note this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark knew she could do it over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark known she could do it over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had known she could do it over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had knew she could do it over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark saw a shape some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark seen a shape some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had seen a shape some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had saw a shape some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah grew quickly last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah grown quickly last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had grown quickly last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had grew quickly last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger saw something at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger seen something at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had seen something at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had saw something at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander gave a book to a student at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander given a book to a student at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had given a book to a student at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had gave a book to a student at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark came just in time last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark come just in time last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had come just in time last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had came just in time last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger came too late some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger come too late some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had come too late some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had came too late some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger grew quickly at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger grown quickly at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had grown quickly at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had grew quickly at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark grew quickly at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark grown quickly at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had grown quickly at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had grew quickly at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah spoke to me this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah spoken to me this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had spoken to me this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had spoke to me this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander gave a book to a student over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander given a book to a student over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had given a book to a student over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had gave a book to a student over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander spoke to me some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander spoken to me some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had spoken to me some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had spoke to me some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark spoke very fast last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark spoken very fast last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had spoken very fast last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had spoke very fast last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger took a paper some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger taken a paper some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had taken a paper some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had took a paper some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander gave money to the man some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander given money to the man some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had given money to the man some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had gave money to the man some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah became someone else at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah become someone else at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had become someone else at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had became someone else at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark drew a round circle some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark drawn a round circle some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had drawn a round circle some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had drew a round circle some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark gave something sweet to the baby this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark given something sweet to the baby this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had given something sweet to the baby this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had gave something sweet to the baby this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger wrote into a book some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger written into a book some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had written into a book some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had wrote into a book some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah took the bell over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah taken the bell over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had taken the bell over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had took the bell over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark drew a round circle over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark drawn a round circle over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had drawn a round circle over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had drew a round circle over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander wrote a note last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander written a note last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had written a note last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had wrote a note last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger grew quickly last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger grown quickly last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had grown quickly last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had grew quickly last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah saw a shape last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah seen a shape last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had seen a shape last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had saw a shape last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger came just in time over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger come just in time over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had come just in time over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had came just in time over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah wrote into a book last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah written into a book last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had written into a book last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had wrote into a book last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark drew a round circle this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark drawn a round circle this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had drawn a round circle this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had drew a round circle this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah knew a lot of things over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah known a lot of things over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had known a lot of things over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had knew a lot of things over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah took them over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah taken them over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had taken them over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had took them over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah gave money to the man some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah given money to the man some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had given money to the man some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had gave money to the man some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger grew quickly some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger grown quickly some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had grown quickly some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had grew quickly some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger saw a shape some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger seen a shape some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had seen a shape some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had saw a shape some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger came to the store over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger come to the store over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had come to the store over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had came to the store over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger gave something sweet to the baby this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger given something sweet to the baby this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had given something sweet to the baby this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had gave something sweet to the baby this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger chose the best option this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger chosen the best option this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had chosen the best option this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had chose the best option this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah came just in time last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah come just in time last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had come just in time last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had came just in time last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah came to the store at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah come to the store at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had come to the store at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had came to the store at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger became someone else at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger become someone else at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had become someone else at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had became someone else at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah came too late this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah come too late this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had come too late this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had came too late this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander came to the store last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander come to the store last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had come to the store last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had came to the store last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger drew a round circle some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger drawn a round circle some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had drawn a round circle some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had drew a round circle some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark came when we needed her at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark come when we needed her at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had come when we needed her at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had came when we needed her at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah gave money to the man over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah given money to the man over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had given money to the man over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had gave money to the man over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah became very different some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah become very different some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had become very different some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had became very different some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander spoke without thinking over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander spoken without thinking over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had spoken without thinking over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had spoke without thinking over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger became angry some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger become angry some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had become angry some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had became angry some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger knew a lot of things this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger known a lot of things this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had known a lot of things this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had knew a lot of things this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah came just in time this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah come just in time this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had come just in time this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had came just in time this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah became someone else this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah become someone else this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had become someone else this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had became someone else this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander became very different at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander become very different at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had become very different at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had became very different at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander saw something last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander seen something last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had seen something last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had saw something last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander knew a lot of things some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander known a lot of things some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had known a lot of things some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had knew a lot of things some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger chose the best option over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger chosen the best option over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had chosen the best option over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had chose the best option over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark came too late this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark come too late this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had come too late this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had came too late this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger grew quickly over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger grown quickly over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had grown quickly over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had grew quickly over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger wrote a note some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger written a note some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had written a note some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had wrote a note some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander became angry this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander become angry this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had become angry this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had became angry this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah wrote a note some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah written a note some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had written a note some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had wrote a note some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark wrote a note this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark written a note this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had written a note this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had wrote a note this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark wrote with a large pen this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark written with a large pen this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had written with a large pen this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had wrote with a large pen this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander drew a picture over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander drawn a picture over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had drawn a picture over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had drew a picture over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark came to the store some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark come to the store some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had come to the store some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had came to the store some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark knew she could do it this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark known she could do it this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had known she could do it this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had knew she could do it this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander gave a book to a student this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander given a book to a student this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had given a book to a student this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had gave a book to a student this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander wrote a story some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander written a story some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had written a story some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had wrote a story some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark chose the best option last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark chosen the best option last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had chosen the best option last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had chose the best option last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander came too late last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander come too late last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had come too late last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had came too late last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark wrote a story at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark written a story at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had written a story at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had wrote a story at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah chose the good one over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah chosen the good one over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had chosen the good one over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had chose the good one over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark became angry last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark become angry last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had become angry last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had became angry last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger took them this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger taken them this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had taken them this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had took them this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger gave something sweet to the baby some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger given something sweet to the baby some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had given something sweet to the baby some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had gave something sweet to the baby some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger drew a map last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger drawn a map last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had drawn a map last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had drew a map last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger came to the store last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger come to the store last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had come to the store last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had came to the store last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger gave something sweet to the baby over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger given something sweet to the baby over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had given something sweet to the baby over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had gave something sweet to the baby over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark spoke to me last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark spoken to me last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had spoken to me last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had spoke to me last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah spoke very fast some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah spoken very fast some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had spoken very fast some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had spoke very fast some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander chose the good one this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander chosen the good one this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had chosen the good one this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had chose the good one this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark saw something at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark seen something at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had seen something at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had saw something at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah wrote a story last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah written a story last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had written a story last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had wrote a story last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah gave money to the man last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah given money to the man last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had given money to the man last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had gave money to the man last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander chose the good one some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander chosen the good one some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had chosen the good one some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had chose the good one some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander grew quickly over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander grown quickly over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had grown quickly over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had grew quickly over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander drew a picture this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander drawn a picture this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had drawn a picture this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had drew a picture this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah saw a shape over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah seen a shape over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had seen a shape over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had saw a shape over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah wrote with a large pen last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah written with a large pen last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had written with a large pen last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had wrote with a large pen last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah drew a map some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah drawn a map some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had drawn a map some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had drew a map some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander came when we needed her last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander come when we needed her last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had come when we needed her last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had came when we needed her last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah chose the best option over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah chosen the best option over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had chosen the best option over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had chose the best option over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger gave a book to a student last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger given a book to a student last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had given a book to a student last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had gave a book to a student last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander took some food at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander taken some food at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had taken some food at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had took some food at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah wrote a note last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah written a note last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had written a note last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had wrote a note last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger took a paper over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger taken a paper over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had taken a paper over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had took a paper over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander saw a bird at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander seen a bird at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had seen a bird at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had saw a bird at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark became very different at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark become very different at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had become very different at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had became very different at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah grew quickly at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah grown quickly at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had grown quickly at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had grew quickly at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander gave a book to a student some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander given a book to a student some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had given a book to a student some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had gave a book to a student some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark spoke about many things this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark spoken about many things this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had spoken about many things this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had spoke about many things this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander spoke very fast last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander spoken very fast last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had spoken very fast last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had spoke very fast last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander chose the best option this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander chosen the best option this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had chosen the best option this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had chose the best option this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger knew a lot of things at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger known a lot of things at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had known a lot of things at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had knew a lot of things at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark chose the good one this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark chosen the good one this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had chosen the good one this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had chose the good one this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander wrote with a large pen this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander written with a large pen this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had written with a large pen this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had wrote with a large pen this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander drew a picture some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander drawn a picture some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had drawn a picture some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had drew a picture some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger wrote with a large pen this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger written with a large pen this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had written with a large pen this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had wrote with a large pen this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander spoke very fast at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander spoken very fast at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had spoken very fast at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had spoke very fast at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger took it over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger taken it over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had taken it over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had took it over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander chose the best option at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander chosen the best option at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had chosen the best option at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had chose the best option at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah took a paper over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah taken a paper over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had taken a paper over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had took a paper over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah became angry some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah become angry some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had become angry some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had became angry some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah spoke about many things over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah spoken about many things over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had spoken about many things over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had spoke about many things over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah knew she could do it this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah known she could do it this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had known she could do it this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had knew she could do it this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger spoke about many things over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger spoken about many things over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had spoken about many things over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had spoke about many things over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark took a paper at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark taken a paper at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had taken a paper at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had took a paper at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander drew a round circle some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander drawn a round circle some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had drawn a round circle some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had drew a round circle some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah gave a book to a student at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah given a book to a student at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had given a book to a student at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had gave a book to a student at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander drew a map last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander drawn a map last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had drawn a map last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had drew a map last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark wrote with a large pen at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark written with a large pen at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had written with a large pen at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had wrote with a large pen at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger came to the store this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger come to the store this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had come to the store this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had came to the store this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark saw a shape at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark seen a shape at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had seen a shape at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had saw a shape at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah wrote into a book over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah written into a book over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had written into a book over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had wrote into a book over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander became angry some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander become angry some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had become angry some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had became angry some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger drew a picture last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger drawn a picture last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had drawn a picture last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had drew a picture last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark became angry at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark become angry at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had become angry at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had became angry at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander chose the best option over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander chosen the best option over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had chosen the best option over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had chose the best option over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah knew she could do it last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah known she could do it last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had known she could do it last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had knew she could do it last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark became very different some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark become very different some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had become very different some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had became very different some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah spoke very fast this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah spoken very fast this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had spoken very fast this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had spoke very fast this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark drew a picture some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark drawn a picture some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had drawn a picture some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had drew a picture some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger came when we needed her this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger come when we needed her this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had come when we needed her this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had came when we needed her this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander spoke about many things over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander spoken about many things over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had spoken about many things over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had spoke about many things over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander became someone else this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander become someone else this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had become someone else this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had became someone else this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger drew a picture this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger drawn a picture this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had drawn a picture this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had drew a picture this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark spoke to me some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark spoken to me some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had spoken to me some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had spoke to me some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander spoke without thinking some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander spoken without thinking some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had spoken without thinking some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had spoke without thinking some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah gave something sweet to the baby some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah given something sweet to the baby some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had given something sweet to the baby some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had gave something sweet to the baby some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger took them last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger taken them last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had taken them last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had took them last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark wrote into a book some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark written into a book some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had written into a book some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had wrote into a book some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark knew she could do it at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark known she could do it at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had known she could do it at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had knew she could do it at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger gave money to the man at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger given money to the man at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had given money to the man at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had gave money to the man at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger came just in time some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger come just in time some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had come just in time some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had came just in time some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger wrote a note last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger written a note last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had written a note last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had wrote a note last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander wrote a note at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander written a note at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had written a note at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had wrote a note at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah spoke to me some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah spoken to me some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had spoken to me some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had spoke to me some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark knew a lot of things some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark known a lot of things some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had known a lot of things some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had knew a lot of things some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark took the bell at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark taken the bell at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had taken the bell at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had took the bell at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger became very different this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger become very different this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had become very different this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had became very different this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah came when we needed her this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah come when we needed her this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had come when we needed her this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had came when we needed her this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark wrote into a book last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark written into a book last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had written into a book last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had wrote into a book last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah gave a book to a student this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah given a book to a student this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had given a book to a student this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had gave a book to a student this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander became very different this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander become very different this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had become very different this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had became very different this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark drew a map last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark drawn a map last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had drawn a map last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had drew a map last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander took a paper at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander taken a paper at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had taken a paper at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had took a paper at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah saw something this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah seen something this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had seen something this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had saw something this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah saw something some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah seen something some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had seen something some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had saw something some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander knew a lot of things this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander known a lot of things this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had known a lot of things this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had knew a lot of things this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander drew a map over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander drawn a map over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had drawn a map over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had drew a map over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander gave money to the man over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander given money to the man over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had given money to the man over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had gave money to the man over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander spoke to me over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander spoken to me over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had spoken to me over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had spoke to me over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger gave a book to a student over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger given a book to a student over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had given a book to a student over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had gave a book to a student over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah took the bell this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah taken the bell this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had taken the bell this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had took the bell this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger took the bell this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger taken the bell this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had taken the bell this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had took the bell this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger drew a picture some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger drawn a picture some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had drawn a picture some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had drew a picture some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark chose the good one at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark chosen the good one at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had chosen the good one at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had chose the good one at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander took a paper this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander taken a paper this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had taken a paper this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had took a paper this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger spoke to me over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger spoken to me over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had spoken to me over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had spoke to me over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger took some food last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger taken some food last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had taken some food last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had took some food last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah took it over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah taken it over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had taken it over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had took it over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger took it last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger taken it last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had taken it last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had took it last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger became very different at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger become very different at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had become very different at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had became very different at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark came just in time this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark come just in time this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had come just in time this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had came just in time this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark spoke about many things at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark spoken about many things at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had spoken about many things at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had spoke about many things at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark spoke without thinking over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark spoken without thinking over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had spoken without thinking over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had spoke without thinking over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger spoke without thinking last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger spoken without thinking last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had spoken without thinking last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had spoke without thinking last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger gave money to the man this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger given money to the man this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had given money to the man this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had gave money to the man this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark came when we needed her last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark come when we needed her last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had come when we needed her last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had came when we needed her last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark saw a bird this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark seen a bird this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had seen a bird this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had saw a bird this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger drew a round circle last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger drawn a round circle last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had drawn a round circle last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had drew a round circle last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark became angry some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark become angry some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had become angry some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had became angry some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander took the bell this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander taken the bell this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had taken the bell this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had took the bell this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander spoke without thinking this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander spoken without thinking this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had spoken without thinking this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had spoke without thinking this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah knew she could do it some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah known she could do it some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had known she could do it some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had knew she could do it some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark chose the good one last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark chosen the good one last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had chosen the good one last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had chose the good one last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander took some food this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander taken some food this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had taken some food this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had took some food this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander gave something sweet to the baby this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander given something sweet to the baby this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had given something sweet to the baby this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had gave something sweet to the baby this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger wrote into a book at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger written into a book at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had written into a book at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had wrote into a book at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah saw a bird at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah seen a bird at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had seen a bird at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had saw a bird at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark saw something last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark seen something last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had seen something last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had saw something last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger chose the good one last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger chosen the good one last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had chosen the good one last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had chose the good one last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark took the bell this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark taken the bell this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had taken the bell this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had took the bell this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger wrote into a book last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger written into a book last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had written into a book last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had wrote into a book last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah wrote with a large pen at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah written with a large pen at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had written with a large pen at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had wrote with a large pen at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark came when we needed her over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark come when we needed her over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had come when we needed her over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had came when we needed her over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark gave a book to a student some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark given a book to a student some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had given a book to a student some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had gave a book to a student some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger knew she could do it over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger known she could do it over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had known she could do it over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had knew she could do it over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander saw a bird over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander seen a bird over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had seen a bird over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had saw a bird over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah grew quickly some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah grown quickly some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had grown quickly some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had grew quickly some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark knew she could do it some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark known she could do it some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had known she could do it some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had knew she could do it some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark came too late last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark come too late last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had come too late last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had came too late last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah knew a lot of things last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah known a lot of things last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had known a lot of things last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had knew a lot of things last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger wrote a note at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger written a note at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had written a note at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had wrote a note at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander gave money to the man last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander given money to the man last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had given money to the man last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had gave money to the man last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger took some food this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger taken some food this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had taken some food this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had took some food this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger took a paper this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger taken a paper this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had taken a paper this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had took a paper this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger saw a shape at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger seen a shape at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had seen a shape at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had saw a shape at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander gave something sweet to the baby last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander given something sweet to the baby last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had given something sweet to the baby last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had gave something sweet to the baby last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger came to the store some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger come to the store some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had come to the store some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had came to the store some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander came too late some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander come too late some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had come too late some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had came too late some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah saw a bird over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah seen a bird over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had seen a bird over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had saw a bird over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark saw a shape this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark seen a shape this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had seen a shape this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had saw a shape this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger spoke to me last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger spoken to me last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had spoken to me last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had spoke to me last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah wrote into a book this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah written into a book this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had written into a book this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had wrote into a book this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah drew a picture at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah drawn a picture at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had drawn a picture at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had drew a picture at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark took a paper over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark taken a paper over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had taken a paper over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had took a paper over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander took the bell some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander taken the bell some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had taken the bell some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had took the bell some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah took some food at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah taken some food at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had taken some food at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had took some food at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander knew she could do it this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander known she could do it this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had known she could do it this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had knew she could do it this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah drew a round circle at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah drawn a round circle at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had drawn a round circle at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had drew a round circle at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander became someone else last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander become someone else last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had become someone else last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had became someone else last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander wrote a story at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander written a story at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had written a story at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had wrote a story at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger spoke about many things last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger spoken about many things last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had spoken about many things last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had spoke about many things last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah became someone else over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah become someone else over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had become someone else over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had became someone else over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger took a paper at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger taken a paper at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had taken a paper at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had took a paper at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark gave a book to a student last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark given a book to a student last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had given a book to a student last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had gave a book to a student last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark knew a lot of things at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark known a lot of things at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had known a lot of things at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had knew a lot of things at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark became someone else over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark become someone else over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had become someone else over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had became someone else over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark came just in time over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark come just in time over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had come just in time over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had came just in time over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah gave money to the man at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah given money to the man at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had given money to the man at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had gave money to the man at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark chose the best option at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark chosen the best option at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had chosen the best option at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had chose the best option at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger became angry at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger become angry at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had become angry at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had became angry at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark took it over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark taken it over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had taken it over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had took it over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah wrote a story this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah written a story this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had written a story this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had wrote a story this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah took some food this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah taken some food this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had taken some food this morning. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had took some food this morning. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander wrote into a book at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander written into a book at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had written into a book at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had wrote into a book at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander spoke about many things last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander spoken about many things last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had spoken about many things last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had spoke about many things last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark became someone else last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark become someone else last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had become someone else last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had became someone else last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander drew a picture last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander drawn a picture last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had drawn a picture last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had drew a picture last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger knew a lot of things last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger known a lot of things last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had known a lot of things last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had knew a lot of things last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger gave money to the man last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger given money to the man last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had given money to the man last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had gave money to the man last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander saw a shape over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander seen a shape over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Alexander had seen a shape over there. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Alexander had saw a shape over there. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger gave something sweet to the baby at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger given something sweet to the baby at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Roger had given something sweet to the baby at home. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Roger had gave something sweet to the baby at home. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark spoke very fast some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark spoken very fast some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Mark had spoken very fast some time ago. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Mark had spoke very fast some time ago. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah gave a book to a student last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah given a book to a student last night. \\n\\n", "phenomena": "irregular_forms"}
+{"sentence_good": "\\n\\n **Mom**: Sarah had given a book to a student last night. \\n\\n", "sentence_bad": "\\n\\n **Mom**: Sarah had gave a book to a student last night. \\n\\n", "phenomena": "irregular_forms"}
