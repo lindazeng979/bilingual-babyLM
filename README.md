@@ -2,36 +2,38 @@
 
 This repository contains the code and data for the paper:
 
-[Bringing Up a Bilingual BabyLM: Investigating Multilingual Language Acquisition Using Small-Scale Models](https://arxiv.org/abs/2603.29552)
+**[Bringing Up a Bilingual BabyLM: Investigating Multilingual Language Acquisition Using Small-Scale Models](https://arxiv.org/abs/2603.29552)**
 
 **Authors:** [Linda Zeng](www.linkedin.com/in/linda-zeng-663aaa2a5), [Steven Y. Feng](http://styfeng.github.io/), [Michael C. Frank](http://web.stanford.edu/~mcfrank/) (Stanford University).
 
 > Please contact lindazeng@stanford.edu if you have any questions or concerns.
 
-
 ---
-## Table of Contents
+## 📦 Data
 
+* **Bilingual-BabyLM dataset** is hosted on Hugging Face: [lindazeng979/bilingual-babyLM](https://huggingface.co/datasets/lindazeng979/bilingual-babyLM)
+* We release both:
+  * the synthetic bilingual dialogue dataset used to construct conditions
+  * the exact training condition datasets used in the paper
 
-1. Data Generation + Setup
-2. Environment Setup
-3. Training
-4. Evaluation
-5. Embedding Visualization
+The exact training condition datasets used in our experiments are provided as:
+```bash
+BL_conditions.zip
+BL_conditions_20M.zip
+```
+To replicate our training, download these archives from the Hugging Face dataset repository and place them inside:
+```bash
+BL_training/data/
+```
 
----
+### Data Generation & Modifications
+If you would like to access the synthetic bilingual dialogue dataset used to construct conditions and generate your own training conditions using it, the Hugging Face [repo](https://huggingface.co/datasets/lindazeng979/bilingual-babyLM) also includes the raw generated data as `bilingual-babyLM.json`.
 
-## 1. Data Generation + Setup
-
-This repository includes the full data generation pipeline, an archive of the raw generated data, and code used to construct the final training conditions.
-
-To reproduce or inspect the generation pipeline:
+This Github repository includes the full data generation pipeline, preprocessing code, and code used to construct our paper's final training conditions. To reproduce or inspect the generation pipeline:
 
 ```bash
 cd BL_generation
 ```
-This pipeline loads and processes data into `BL_collection_data`.
-
 Inside `BL_generation`, we provide a separate `README.md` containing detailed instructions for:
 
 * synthetic dialogue generation
@@ -39,11 +41,11 @@ Inside `BL_generation`, we provide a separate `README.md` containing detailed in
 * condition construction
 * train/validation splitting
 
-The final training datasets are already provided as compressed archives, so running the generation pipeline is not necessary unless you want to regenerate or modify the data.
+This pipeline loads and processes data into `BL_collection_data`.
 
 Beyond this point, we assume generation is complete and move to the training pipeline in `BL_training`.
 
-### Unzip Data
+### Training Data Setup
 
 To run the training conditions from the paper, unzip the following directories:
 
@@ -96,9 +98,9 @@ BL_training/data/
 
 ---
 
-# 2. Environment Setup
+## ⚙️ Environment Setup
 
-## Step 1: Install Miniconda (if needed)
+### Step 1: Install Miniconda (if needed)
 
 Return to the main repository directory and install:
 
@@ -114,7 +116,7 @@ source ~/.bashrc
 conda init
 ```
 
-## Step 2: Create and Configure Training Environment
+### Step 2: Create and Configure Training Environment
 
 ```bash
 cd BL_training
@@ -129,7 +131,7 @@ pip install numpy==1.24.2
 pip install wandb
 ```
 
-## Step 3: Login to Weights & Biases
+### Step 3: Login to Weights & Biases
 
 ```bash
 wandb login
@@ -142,14 +144,13 @@ ls -l ~/.netrc
 cat ~/.netrc
 ```
 
-## Step 3: Install PyTorch
-
-Note: a default version of PyTorch may be installed above. We explicitly reinstall the CUDA-compatible version below to ensure GPU compatibility.
+### Step 4: Install PyTorch
 
 ```bash
 pip install --force-reinstall "torch==2.8.0+cu128" \
   --index-url https://download.pytorch.org/whl/cu128
 ```
+> Note: a default version of PyTorch may be installed above. We explicitly reinstall the CUDA-compatible version below to ensure GPU compatibility.
 
 **Optional: Verify Installation**
 
@@ -191,9 +192,9 @@ sudo apt-get install \
 ```
 ---
 
-# 3. Model Training
+## 🧪 Model Training
 
-## Tokenizer Training
+### Tokenizer Training
 
 ```bash
 python3 scripts/tokenizers/train_GPT2_tokenizer.py \
@@ -203,9 +204,9 @@ python3 scripts/tokenizers/train_GPT2_tokenizer.py \
   <vocab_size>
 python3 scripts/tokenizers/test_GPT2_tokenizer.py <output_folder>
 ```
-Note: train a tokenizer for every unique dataset that you want to train a model on. Then, make sure to use that tokenizer while training that model on that particular dataset. The default `vocab_size` for GPT-2 is 52k, and our experiments use 80k (see paper for explanation).
+> Note: train a tokenizer for every unique dataset that you want to train a model on. Then, make sure to use that tokenizer while training that model on that particular dataset. The default `vocab_size` for GPT-2 is 52k, and our experiments use 80k (see Section 3.3 of our paper).
 
-### Example
+**Example**:
 
 ```bash
 python3 scripts/tokenizers/train_GPT2_tokenizer.py \
@@ -215,12 +216,11 @@ python3 scripts/tokenizers/train_GPT2_tokenizer.py \
   80000
 ```
 
-## GPT-2 Training
+### GPT-2 Training
 
 Training uses a modified version of HuggingFace’s `run_clm.py,` with credit to the [HuggingFace Transformers repository](https://github.com/huggingface/transformers).
 
-
-### Generic Training Command
+**Generic Training Command**:
 
 ```bash
 bash scripts/language_model_training/GPT2_CHILDES_4-GPUs_train.sh \
@@ -236,7 +236,7 @@ bash scripts/language_model_training/GPT2_CHILDES_4-GPUs_train.sh \
   <seed>
 ```
 
-### Example
+**Example**:
 
 ```bash
 bash scripts/language_model_training/GPT2_CHILDES_4-GPUs_train.sh \
@@ -259,23 +259,19 @@ Optional logging:
 ```
 
 
-### Notes
+**Notes**:
 
-**Different Experiments**: In the example above, you can replace all occurrences of `eng_topline` with the folder name of a different data condition (e.g. `intrasent`) to run different experiments.
-
-**Model Size**: You can adjust the `model_size` from `gpt2` to `gpt2-mini` and save to a new model directory while keeping all else the same to replicate our smaller model size experiments.
-
-**GPU Count**: You can change the number of GPUs by modifying the training script.
-
-**Checkpoint Saving**: The current script hardcodes `SAVE_TOTAL_LIMIT=2` to reduce storage usage. Modify this if you want more intermediate checkpoints.
-
-**WandB**: Weights & Biases logging is enabled. You can test WandB setup with:
+- **Different Experiments**: In the example above, you can replace all occurrences of `eng_topline` with the folder name of a different data condition (e.g. `intrasent`) to run different experiments.
+- **Model Size**: You can adjust the `model_size` from `gpt2` to `gpt2-mini` and save to a new model directory while keeping all else the same to replicate our smaller model size experiments.
+- **GPU Count**: You can change the number of GPUs by modifying the training script.
+- **Checkpoint Saving**: The current script hardcodes `SAVE_TOTAL_LIMIT=2` to reduce storage usage. Modify this if you want more intermediate checkpoints.
+- **WandB**: Weights & Biases logging is enabled. You can test WandB setup with:
 
 ```bash
 python3 scripts/language_model_training/wandb_test.py
 ```
 
-### Large-Scale Training
+**Large-Scale Training**:
 
 To train multiple models sequentially:
 
@@ -287,32 +283,20 @@ Modify this script to specify data conditions / model names desired to be traine
 
 ---
 
-# 4. Evaluation
-
-## Optional: Preprocessing
+## 📊 Evaluation
 
 All evaluation datasets included in this repository are already pre-filtered using the vocabulary of the training data. You do **not** need to rerun filtering.
 
-However, the preprocessing scripts are included in `BL_training/scripts/preprocess_eval_data/`. We also provide the vocab files used to filter the evaluation data sets in `BL_training/data/`.
-
-The exact filtering script depends on the dataset/evaluation condition. The general pipeline is:
+If you are using an new evaluation dataset, please refer to the preprocessing scripts in `BL_training/scripts/preprocess_eval_data/`. We also provide the vocab files used to filter the evaluation data sets in `BL_training/data/`. The exact filtering script depends on the dataset/evaluation condition. The general pipeline is:
 
 1. Run `get_BL_vocab.py` to extract vocabulary from the relevant training data.
 2. Run `combine_vocab_files.py` to merge the desired vocabulary files.
 3. Run the appropriate `BL_filter<...>.py` script for the target evaluation dataset.
 
 
-## Evaluation Setup
+### Perplexity Evaluation
 
-```bash
-cd BL_training
-```
-
-
-## Perplexity Evaluation
-
-
-Note that the script expects the following paths by default:
+Perplexity evaluation requires the validation sets of the English and Spanish topline conditions and uses the following paths by default:
 
 ```python
 EN_BASE_PATH = "data/eng_topline/val.txt"
@@ -333,7 +317,7 @@ python3 scripts/evaluation/eval_ppl.py \
   /path/to/model2 \
   /path/to/model3
 ```
-Note: the perplexity script automatically evaluates models on the English and Spanish topline validation sets. If a model path contains `20M`, the script automatically switches to the corresponding 20M evaluation datasets.
+> Note: If a model path contains `20M`, the script automatically switches to the corresponding 20M evaluation datasets.
 
 **Evaluate Entire Model Directory:**
 
@@ -350,10 +334,11 @@ python scripts/evaluation/eval_ppl.py \
   --out-file results/my_results.txt
 ```
 
-## Word Similarity Evaluation
+### Word Similarity Evaluation
 
 Based on [LexiContrastiveGrd](https://github.com/EvLab-MIT/LexiContrastiveGrd). Credits to Chengxu Zhuang and coauthors of [arXiv:2310.13257](https://arxiv.org/abs/2310.13257) and [arXiv:2403.14551](https://arxiv.org/abs/2403.14551).
 
+**Setup:**
 ```
 cd LexiContrastiveGrd
 conda create -n babyLM_WR python=3.9
@@ -362,8 +347,7 @@ pip install -e .
 pip install git+https://github.com/chengxuz/lm-evaluation-harness.git
 pip install pytest pycountry openpyxl scipy sacrebleu sklearn
 ```
-
-For a single model, run the evaluation script directly.
+**Evaluation Command:**
 ```
 export PYTHONPATH="${PYTHONPATH}:$(pwd)/src"
 cd src/llm_devo/word_sim
@@ -374,19 +358,18 @@ python eval_word_sim.py \
   --output_final_avg_score_csv <avg_csv>
 ```
 
-For batch evaluation, run
-
+**Evalute multiple models**:
 ```bash
 bash scripts/evaluation/eval_ws.sh
 ```
 
 Modify this script to include the desired `model_names` and global paths if necessary.
 
-## Multilingual Word Similarity Evaluation
+### Multilingual Word Similarity Evaluation
 
 Based on the multilingual word similarity datasets from [SemEval-2017 Task 2](https://aclanthology.org/S17-2002.pdf).
 
-
+**Setup:**
 Use the same environment as the Word Similarity evaluation.
 
 ```bash
@@ -395,7 +378,7 @@ cd LexiContrastiveGrd
 export PYTHONPATH="${PYTHONPATH}:$(pwd)/src"
 cd src/llm_devo/word_sim
 ```
-For a single model, run the multilingual evaluation script directly.
+**Evaluation Command:**
 ```bash
 python3 BL_multiling_eval_word_sim.py \
   --ckpt_path <path_to_model> \
@@ -406,7 +389,7 @@ python3 BL_multiling_eval_word_sim.py \
   --human_scores_file <human_scores_file> \
   --dataset_name <dataset_name>
 ```
-Example:
+**Example:**
 ```bash
 python3 BL_multiling_eval_word_sim.py \
   --ckpt_path trained_GPT2_models/GPT2-eng_topline \
@@ -417,16 +400,16 @@ python3 BL_multiling_eval_word_sim.py \
   --human_scores_file SemEval17-Task2/test/subtask1-monolingual/keys/en.test.gold.txt \
   --dataset_name en_test
 ```
-Note that this only runs results on English word similarity and that it must be repeated for Spanish and English-Spanish, which have paths that can be found in the batch evaluation script below.
+> Note that this only runs results on English word similarity and that it must be repeated for Spanish and English-Spanish, which have paths that can be found in the batch evaluation script below.
 
-For batch evaluation, run:
+**Evaluate multiple models:**
 ```bash
 bash scripts/evaluation/eval_xws.sh
 ```
 Modify this script to include the desired `partial_model_paths` and global path if necessary.
 
 
-## Zorro Evaluation
+### Zorro Evaluation
 
 This is adapted from the BabyLM workshop's evaluation (2023) [repo](https://github.com/babylm/evaluation-pipeline-2023). Here is the original Zorro [repo](https://github.com/phueb/Zorro).
 
@@ -456,7 +439,7 @@ chmod u+x finetune_all_tasks.sh
 chmod u+x finetune_model.sh
 ```
 
-**Evaluation command:** For a single model, run the evaluation script directly.
+**Evaluation command:** 
 ```bash
 python3 babylm_eval_zorro.py \
   <model_path> \
@@ -477,11 +460,11 @@ bash scripts/evaluation/eval_zorro.sh
 Modify this script to include the desired `MODEL_NAMES`, `MODEL_DIR`, and output paths if necessary.
 
 ---
-# 5. Embedding Visualizations
+## 🌌 Embedding Visualizations
 
 We provide a UMAP visualization pipeline for token embedding spaces. Tokens are colored according to empirical language usage estimated from the English-only and Spanish-only corpora (see paper for details).
 
-## Install Visualization Dependencies
+### Install Visualization Dependencies
 
 (Optional: use a separate environment)
 
@@ -489,7 +472,7 @@ We provide a UMAP visualization pipeline for token embedding spaces. Tokens are 
 pip install torch transformers umap-learn plotly
 ```
 
-## Generate Visualization
+### Generate Visualization
 
 Command (replace `<path_to_model>` and `<output_name>`)
 ```bash
@@ -509,7 +492,7 @@ The generated HTML file will appear in: `BL_training/results/embedding/`. Open t
 
 Generation may take some time depending on dataset size.
 
-# Citation
+## 📑 Citation
 
 If you use this codebase or dataset, please cite:
 
